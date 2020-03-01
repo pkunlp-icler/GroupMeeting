@@ -28,7 +28,7 @@ reporter: xxxx
 2020/02/23
 
 reporter: Chen Xudong
-* paper: Zuchao Li, Shexia He, Junru Zhou, Hai Zhao, Kevin Parnow, Rui Wang. 2019 [Dependency and Span, Cross-Style Semantic Role Labeling on PropBank and NomBank](https://arxiv.org/abs/1911.02851). In *arxiv preprint*
+* paper: Zuchao Li, Shexia He, Junru Zhou, Hai Zhao, Kevin Par Rui Wang. 2019 [Dependency and Span, Cross-Style Semantic Role Labeling on PropBank and NomBank](https://arxiv.org/abs/1911.02851). In *arxiv preprint*
 * ppt:  [presentaion2.23_cxd.pdf](ppts/presentaion2.23_cxd.pdf)
 * method: BiLSTM+Syntactic Aided+Biaffine
 ### 3. Dependency Parsing
@@ -38,7 +38,7 @@ reporter: Chen Xudong
 repoter: Cao Tianyang
 * paper: Xinyu Hua and Lu Wang. 2019, [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://arxiv.org/abs/1909.09734). In *arxiv preprint*
 * ppt: [3.1_caotianyang_presentation.pdf](3.1_caotianyang_presentation.pdf)
-* method: context planning decoder+ 
+* method: context planning decoder+ style specification
 
 
 ## Datasets

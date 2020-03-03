@@ -5,6 +5,7 @@
     * [Semantic Role Labeling](#2-semantic-role-labeling)
     * [Dependency Parsing](#3-dependency-parsing)
     * [Math Problem Generation](#4-math-problem-generation)
+    * [Medical Text Processing](#5-medical-text-processing)
 * [Datasets](#datasets)
    
 
@@ -33,6 +34,14 @@ repoter: Cao Tianyang
 * paper: Xinyu Hua and Lu Wang. 2019. [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://arxiv.org/abs/1909.09734). In *arxiv preprint*
 * ppt: [3.1_caotianyang_presentation.pdf](ppts/3.1_caotianyang_presentation.pdf)
 * method: context planning decoder+ style specification
+
+### 5. Medical Text Processing
+2020/03/01
+reporter: Zhang Huan
+* paper: Bansal, T., Verga, P., Choudhary, N., & McCallum, A. 2019. [Simultaneously Linking Entities and Extracting Relations from Biomedical Text Without Mention-level Supervision](https://arxiv.org/abs/1912.01070). In *AAAI-2020*.
+* ppt:  [20200301_zhanghuan](ppts/20200301_zhanghuan.pdf)
+* method: Simultaneously link entities and extract relationships
+
 
 
 ## Datasets

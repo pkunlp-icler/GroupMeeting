@@ -28,25 +28,27 @@ reporter: Chen Xudong
 
 ### 3. Dependency Parsing
 
+
 ### 4. Math Problem Generation
 2020/03/01
-repoter: Cao Tianyang
+reporter: Cao Tianyang
 * paper: Xinyu Hua and Lu Wang. 2019. [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://arxiv.org/abs/1909.09734). In *arxiv preprint*
 * ppt: [3.1_caotianyang_presentation.pdf](ppts/3.1_caotianyang_presentation.pdf)
 * method: context planning decoder+ style specification
 
 2020/03/08
-repoter: Zhao song ge
+reporter: Zhao Songge
 * paper: Cao Liu Kang Liu .2019 [Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss](https://arxiv.org/abs/1910.13108). In *EMNLP-2019*.
 * ppt: [3.8 zhaosongge_presentation.pdf](ppts/3.8_zhaosongge.pdf)
 * method: Divisified context + Transformer + Answer-aware loss
+
+
 ### 5. Medical Text Processing
 2020/03/01
 reporter: Zhang Huan
 * paper: Bansal, T., Verga, P., Choudhary, N., & McCallum, A. 2019. [Simultaneously Linking Entities and Extracting Relations from Biomedical Text Without Mention-level Supervision](https://arxiv.org/abs/1912.01070). In *AAAI-2020*.
 * ppt:  [20200301_zhanghuan](ppts/20200301_zhanghuan.pdf)
 * method: Simultaneously link entities and extract relationships
-
 
 
 ## Datasets

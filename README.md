@@ -15,6 +15,12 @@
 reporter: Zeng Shuang
 * paper: Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou. 2019. [Connecting the Dots: Document-level Neural Relation Extraction with Edge-oriented Graphs](https://arxiv.org/abs/1909.00228). In *EMNLP-IJCNLP 2019*.
 * ppt:  [20200223_zengshuang](ppts/20200223_zengshuang.pdf)
+* method: BERT + subject tagger + relation-specific object tagger
+
+2020/03/15
+reporter: Runxin Xu
+* paper: Zhepei Wei, Jianlin Su, Yue Wang, Yuan Tian, Yi Chang. 2019. [A Novel Hierarchical Binary Tagging Framework for Joint Extraction of Entities and Relations](https://arxiv.org/abs/1909.03227). In *arxiv preprint*.
+* ppt:  [20200315_xrx](ppts/20200315_xrx.pdf)
 * method: BiLSTM + Edge-oriented Graph + Iterative Inference Mechanism
 
 

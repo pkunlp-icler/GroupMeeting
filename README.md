@@ -33,7 +33,11 @@ reporter: Chen Xudong
 
 
 ### 3. Dependency Parsing
-
+2020/03/15
+reporter: Cui Wei
+* paper: Daniel Fern´andez-Gonz´alez and Carlos G´omez-Rodr´ıguez. 2020. [Discontinuous Constituent Parsing with Pointer Networks](https://arxiv.org/abs/2002.01824). In *AAAI-2020*.
+* ppt:  [20200315_cuiwei](ppts/20200315_cuiwei.pdf)
+* method: Constituents as Augmented Dependencies + Pointer Network
 
 ### 4. Math Problem Generation
 2020/03/01

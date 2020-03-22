@@ -44,14 +44,13 @@ reporter: Shuang Zeng
 reporter: Xudong Chen
 * paper: Zuchao Li, Shexia He, Junru Zhou, Hai Zhao, Kevin Par Rui Wang. 2019. [Dependency and Span, Cross-Style Semantic Role Labeling on PropBank and NomBank](https://arxiv.org/abs/1911.02851). In *arxiv preprint*.
 * ppt:  [20200223_cxd](ppts/20200223_cxd.pdf)
-* method: BiLSTM+Syntactic Aided+Biaffine
+* method: BiLSTM + Syntactic Aided + Biaffine
 
 2020/03/22
 reporter: Xudong Chen
-* paper:Anwen Hu,Zhicheng Dou,Jian-Yun Nie,Ji-Rong Wen. 2019. Dependency and Span, Leveraging Multi-token Entities in Document-level
-Named Entity Recognition.In *AAAI 2020*.
+* paper: Anwen Hu,Zhicheng Dou,Jian-Yun Nie,Ji-Rong Wen. 2019. [Leveraging Multi-token Entities in Document-level Named Entity Recognition](http://playbigdata.ruc.edu.cn/dou/publication/2020_aaai_ner.pdf). In *AAAI 2020*.
 * ppt:  [20200322_cxd](ppts/20200322_cxd.pdf)
-* method: biLSTM+document attention+crf
+* method: BiLSTM + Document Attention + CRF
 
 
 ### 3. Dependency Parsing

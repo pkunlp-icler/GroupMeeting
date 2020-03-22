@@ -49,7 +49,7 @@ reporter: Xudong Chen
 2020/03/22
 reporter: Xudong Chen
 * paper:Anwen Hu,Zhicheng Dou,Jian-Yun Nie,Ji-Rong Wen. 2019. Dependency and Span, Leveraging Multi-token Entities in Document-level
-Named Entity Recognition.
+Named Entity Recognition.In *AAAI 2020*.
 * ppt:  [20200322_cxd](ppts/20200322_cxd.pdf)
 * method: biLSTM+document attention+crf
 

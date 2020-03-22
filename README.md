@@ -17,6 +17,14 @@ reporter: Zeng Shuang
 * ppt:  [20200223_zengshuang](ppts/20200223_zengshuang.pdf)
 * method: BERT + subject tagger + relation-specific object tagger
 
+
+2020/03/08
+reporter: Zong Yuan
+* paper: DaojianZeng, HaoranZhang, QianyingLiu. 2020. [CopyMTL:Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning](https://arxiv.org/abs/1911.10438). In *AAAI 20*.
+* ppt:  [20200308](ppts/20200308.pdf)
+* method: Pointer-generator + mulit-task
+
+
 2020/03/15
 reporter: Runxin Xu
 * paper: Zhepei Wei, Jianlin Su, Yue Wang, Yuan Tian, Yi Chang. 2019. [A Novel Hierarchical Binary Tagging Framework for Joint Extraction of Entities and Relations](https://arxiv.org/abs/1909.03227). In *arxiv preprint*.

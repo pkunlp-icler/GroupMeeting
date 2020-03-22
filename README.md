@@ -36,7 +36,7 @@ reporter: Runxin Xu
 reporter: Shuang Zeng
 * paper: Bowen Yu, Zhenyu Zhang, Tingwen Liu, Bin Wang, Sujian Li, Quangang Li. 2019. [Beyond Word Attention: Using Segment Attention in Neural Relation Extraction](https://www.ijcai.org/Proceedings/2019/750). In *IJCAI 2019*.
 * ppt:  [20200322_zs](ppts/20200322_zs.pdf)
-* method: Segment Attention Layer with linear-chain CRF + two regularizer
+* method: Segment Attention Layer with linear-chain CRF + two regularizers
 
 
 ### 2. Semantic Role Labeling

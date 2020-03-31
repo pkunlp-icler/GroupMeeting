@@ -66,8 +66,8 @@ reporter: Tianyang Cao
 * paper: Xinyu Hua and Lu Wang. 2019. [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://arxiv.org/abs/1909.09734). In *arxiv preprint*.
 * ppt: [20200301_cty](ppts/20200301_cty.pdf)
 * method: context planning decoder+ style specification
-Zhang
-2020/03/08X
+
+2020/03/08
 reporter: Songge Zhao
 * paper: Cao Liu, Kang Liu .2019 [Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss](https://arxiv.org/abs/1910.13108). In *EMNLP 2019*.
 * ppt: [20200308_zsg](ppts/20200308_zsg.pdf)

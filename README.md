@@ -69,16 +69,15 @@ reporter: Tianyang Cao
 
 2020/03/08
 reporter: Songge Zhao
-* paper: Cao Liu, Kang Liu .2019 [Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss](https://arxiv.org/abs/1910.13108). In *EMNLP 2019*.
+* paper: Cao Liu, Kang Liu .2019. [Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss](https://arxiv.org/abs/1910.13108). In *EMNLP 2019*.
 * ppt: [20200308_zsg](ppts/20200308_zsg.pdf)
 * method: Divisified context + Transformer + Answer-aware loss
 
 2020/03/29
 repoter: Tianyang Cao
-* paper: Deng Cai, Yan Wang, Wei Bi, ZhaoPeng Tu, XiaoJiang Liu, Shuming Shi. 2019. [Retrieval-guided Dialogue Response Generation via a
-Matching-to-Generation Framework] (https://www.aclweb.org/anthology/D19-1195.pdf) In *EMNLP2019*
+* paper: Deng Cai, Yan Wang, Wei Bi, ZhaoPeng Tu, XiaoJiang Liu, Shuming Shi. 2019. [Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework](https://www.aclweb.org/anthology/D19-1195.pdf). In *EMNLP 2019*
 * ppt: [20200329_cty](ppts/20200329_cty.pdf)
-* method: Matching score+skeleton to generation
+* method: Matching score + skeleton to generation
 
 
 ### 5. Medical Text Processing

@@ -104,5 +104,11 @@ reporter: Huan Zhang
 * ppt:  [20200301_zh](ppts/20200301_zh.pdf)
 * method: Simultaneously link entities and extract relationships
 
+2020/03/29
+reporter: Huan Zhang
+* paper: Angli Liu, Jingfei Du, Veselin Stoyanov,  2019. [Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition](https://arxiv.org/abs/1904.04458). In *NAACL 2019*.
+* ppt:  [20200329_zh](ppts/20200329_zh.pdf)
+* method: LM + KB + unsupervised + ner(plain text)
+
 
 ## Datasets

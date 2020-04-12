@@ -46,6 +46,16 @@ reporter: Yuan Zong
 * method: Pretrain_model + bag_level
 
 
+2020/04/12
+reporter: Shuang Zeng
+* paper1: Xiaocheng Feng, Jiang Guo, Bing Qin, Ting Liu, Yongjie Liu. 2017. [Effective Deep Memory Networks for Distant Supervised Relation Extraction](https://www.ijcai.org/Proceedings/2017/559). In *IJCAI 2017*.
+* method: PCNN + word-level memory + sentence-level memory, bag-level multi-instance multi-label learning
+* paper2: Jianhao Yan, Lin He, Ruqin Huang, Jian Li, Ying Liu. 2019. [Relation Extraction with Temporal Reasoning Based on Memory Augmented Distant Supervision](https://www.aclweb.org/anthology/N19-1107). In *NAACL 2019*.
+* method: PCNN + temporal memory + iterative reasoning
+* ppt:  [20200412_zs](ppts/20200412_zs.pdf)
+
+
+
 ### 2. Semantic Role Labeling
 2020/02/23
 reporter: Xudong Chen

@@ -17,13 +17,11 @@ reporter: Shuang Zeng
 * ppt:  [20200223_zs](ppts/20200223_zs.pdf)
 * method: BiLSTM + Edge-oriented Graph + Iterative Inference Mechanism
 
-
 2020/03/08
 reporter: Yuan Zong
 * paper: Daojian Zeng, Haoran Zhang, Qianying Liu. 2020. [CopyMTL:Copy Mechanism for Joint Extraction of Entities and Relations with Multi-Task Learning](https://arxiv.org/abs/1911.10438). In *AAAI 2020*.
 * ppt:  [20200308_zy](ppts/20200308_zy.pdf)
 * method: Pointer-generator + mulit-task
-
 
 2020/03/15
 reporter: Runxin Xu
@@ -31,20 +29,17 @@ reporter: Runxin Xu
 * ppt:  [20200315_xrx](ppts/20200315_xrx.pdf)
 * method: BERT + subject tagger + relation-specific object tagger
 
-
 2020/03/22
 reporter: Shuang Zeng
 * paper: Bowen Yu, Zhenyu Zhang, Tingwen Liu, Bin Wang, Sujian Li, Quangang Li. 2019. [Beyond Word Attention: Using Segment Attention in Neural Relation Extraction](https://www.ijcai.org/Proceedings/2019/750). In *IJCAI 2019*.
 * ppt:  [20200322_zs](ppts/20200322_zs.pdf)
 * method: Segment Attention Layer with linear-chain CRF + two regularizers
 
-
 2020/04/05
 reporter: Yuan Zong
 * paper: Christoph Alt, Marc Hübner, Leonhard Hennig. 2019. [Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction](https://arxiv.org/abs/1906.08646). In *ACL 2019*.
 * ppt:  [20200405_zy](ppts/20200405_zy.pdf)
 * method: Pretrain_model + bag_level
-
 
 2020/04/12
 reporter: Shuang Zeng
@@ -53,8 +48,6 @@ reporter: Shuang Zeng
 * paper2: Jianhao Yan, Lin He, Ruqin Huang, Jian Li, Ying Liu. 2019. [Relation Extraction with Temporal Reasoning Based on Memory Augmented Distant Supervision](https://www.aclweb.org/anthology/N19-1107). In *NAACL 2019*.
 * method: PCNN + temporal memory + iterative reasoning
 * ppt:  [20200412_zs](ppts/20200412_zs.pdf)
-
-
 
 ### 2. Semantic Role Labeling
 2020/02/23
@@ -77,6 +70,7 @@ reporter: Wei Cui
 * ppt:  [20200315_cw](ppts/20200315_cw.pdf)
 * method: Constituents as Augmented Dependencies + Pointer Network
 
+
 ### 4. Math Problem Generation
 2020/03/01
 reporter: Tianyang Cao 
@@ -92,15 +86,16 @@ reporter: Songge Zhao
 
 2020/03/29
 repoter: Tianyang Cao
-* paper: Deng Cai, Yan Wang, Wei Bi, ZhaoPeng Tu, XiaoJiang Liu, Shuming Shi. 2019. [Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework](https://www.aclweb.org/anthology/D19-1195.pdf). In *EMNLP 2019*
+* paper: Deng Cai, Yan Wang, Wei Bi, ZhaoPeng Tu, XiaoJiang Liu, Shuming Shi. 2019. [Retrieval-guided Dialogue Response Generation via a Matching-to-Generation Framework](https://www.aclweb.org/anthology/D19-1195.pdf). In *EMNLP 2019*.
 * ppt: [20200329_cty](ppts/20200329_cty.pdf)
 * method: Matching score + skeleton to generation
 
 2020/04/05
 repoter: Songge Zhao
-* paper: Weichao Wang , Shi Feng , Daling Wang , Yifei Zhang [Answer-guided and Semantic Coherent Question Generation in Open-domain Conversation](https://www.aclweb.org/anthology/D19-1511/). In *EMNLP 2019*
-* ppt: [0405zsg](ppts/20200405_zsg.pdf)
+* paper: Weichao Wang , Shi Feng , Daling Wang , Yifei Zhang [Answer-guided and Semantic Coherent Question Generation in Open-domain Conversation](https://www.aclweb.org/anthology/D19-1511/). In *EMNLP 2019*.
+* ppt: [20200405_zsg](ppts/20200405_zsg.pdf)
 * method:RL + AL + CVAE genration
+
 
 ### 5. Medical Text Processing
 2020/03/01

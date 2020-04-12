@@ -70,6 +70,12 @@ reporter: Wei Cui
 * ppt:  [20200315_cw](ppts/20200315_cw.pdf)
 * method: Constituents as Augmented Dependencies + Pointer Network
 
+2020/04/12
+reporter: Wei Cui
+* paper: Alireza Mohammadshahi and James Henderson. 2020. [Recursive Non-Autoregressive Graph-to-Graph Transformer for Dependency Parsing with Iterative Refinement](https://arxiv.org/abs/2003.13118). In *arxiv preprint*.
+* ppt:  [20200412_cw](ppts/20200412_cw.pdf)
+* method: Graph-to-Graph Iterative Refinement
+
 
 ### 4. Math Problem Generation
 2020/03/01

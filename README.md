@@ -39,6 +39,13 @@ reporter: Shuang Zeng
 * method: Segment Attention Layer with linear-chain CRF + two regularizers
 
 
+2020/04/05
+reporter: Yuan Zong
+* paper: Christoph Alt, Marc Hübner, Leonhard Hennig. 2019. [Fine-tuning Pre-Trained Transformer Language Models to Distantly Supervised Relation Extraction](https://arxiv.org/abs/1906.08646). In *ACL 2019*.
+* ppt:  [20200405](ppts/20200405_zy.pdf)
+* method: Pretrain_model + bag_level
+
+
 ### 2. Semantic Role Labeling
 2020/02/23
 reporter: Xudong Chen

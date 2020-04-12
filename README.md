@@ -86,6 +86,11 @@ repoter: Tianyang Cao
 * ppt: [20200329_cty](ppts/20200329_cty.pdf)
 * method: Matching score + skeleton to generation
 
+2020/04/05
+repoter: Songge Zhao
+* paper: Weichao Wang , Shi Feng , Daling Wang , Yifei Zhang [Answer-guided and Semantic Coherent Question Generation in Open-domain Conversation](https://www.aclweb.org/anthology/D19-1511/). In *EMNLP 2019*
+* ppt: [0405zsg](ppts/0405zsg.pdf)
+* method:RL + AL + CVAE genration
 
 ### 5. Medical Text Processing
 2020/03/01

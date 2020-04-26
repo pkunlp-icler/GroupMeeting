@@ -130,5 +130,10 @@ reporter: Huan Zhang
 * ppt:  [20200329_zh](ppts/20200329_zh.pdf)
 * method: LM + KB + unsupervised + ner(plain text)
 
+2020/04/26
+reporter: Huan Zhang
+* paper: Changmeng Zheng, Yi Cai, Jingyun Xu, Ho-fung Leung and Guandong Xu, 2019. [A Boundary-aware Neural Model for Nested Named Entity Recognition](https://www.aclweb.org/anthology/D19-1034.pdf). In *EMNLP 2019*.
+* ppt:  [20200426_zh](ppts/20200426.pdf)
+* method: Boundary-aware + categorical labels prediction + nested ner
 
 ## Datasets

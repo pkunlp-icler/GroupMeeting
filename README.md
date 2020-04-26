@@ -49,6 +49,13 @@ reporter: Shuang Zeng
 * method: PCNN + temporal memory + iterative reasoning
 * ppt:  [20200412_zs](ppts/20200412_zs.pdf)
 
+2020/04/20
+reporter: Xudong Chen
+* paper: Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, Jing Jiang.2020. [Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction](https://arxiv.org/abs/1911.11899?context=cs). In *AAAI 2020*.
+* ppt:  [20200420_cxd](ppts/20200420_cxd.pdf)
+* method: Attention+Gate+Entity-Aware Embedding
+
+
 ### 2. Semantic Role Labeling
 2020/02/23
 reporter: Xudong Chen

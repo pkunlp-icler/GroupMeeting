@@ -55,6 +55,13 @@ reporter: Xudong Chen
 * ppt:  [20200420_cxd](ppts/20200420_cxd.pdf)
 * method: Attention+Gate+Entity-Aware Embedding
 
+2020/04/20
+reporter: Runxin Xu
+* paper1: Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, Tom Kwiatkowski.2019. [Matching the Blanks: Distributional Similarity for Relation Learning](https://arxiv.org/abs/1906.03158). In *ACL 2019*.
+* paper2: Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Qi Ju, Haotang Deng, Ping Wang.2020. [K-BERT: Enabling Language Representation with Knowledge Graph](https://arxiv.org/abs/1909.07606). In *AAAI 2020*.
+* ppt:  [20200420_xrx](ppts/20200420_xrx.pdf)
+* method: Pre-train Model & Knowledge Graph
+
 
 ### 2. Semantic Role Labeling
 2020/02/23

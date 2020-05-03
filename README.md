@@ -62,6 +62,12 @@ reporter: Runxin Xu
 * ppt:  [20200420_xrx](ppts/20200420_xrx.pdf)
 * method: Pre-train Model & Knowledge Graph
 
+2020/05/03
+reporter: Yuan Zong
+* paper: Wenya Wang, Sinno Jialin Pan . [Integrating Deep Learning with Logic Fusion for Information Extraction
+](https://arxiv.org/abs/1912.03041). In *AAAI 2020*.
+* ppt:  [20200503_zy](ppts/20200503_zy.pdf)
+* method: Transformer & Logic Fusion
 
 ### 2. Semantic Role Labeling
 2020/02/23

@@ -146,13 +146,14 @@ reporter: Huan Zhang
 2020/04/26
 reporter: Huan Zhang
 * paper: Changmeng Zheng, Yi Cai, Jingyun Xu, Ho-fung Leung and Guandong Xu, 2019. [A Boundary-aware Neural Model for Nested Named Entity Recognition](https://www.aclweb.org/anthology/D19-1034.pdf). In *EMNLP 2019*.
-* ppt:  [20200426_zh](ppts/20200426.pdf)
+* ppt:  [20200426_zh](ppts/20200426_zh.pdf)
 * method: Boundary-aware + categorical labels prediction + nested ner
 
 ### 6. Law Judgement Prediction
+2020/05/03
 reporter: Xudong Chen
 * paper: Nuo Xu, PinghuiWang, Long Chen, Li Pan, Xiaoyan Wang, Junzhou Zhao,  2020. [Distinguish Confusing Law Articles for Legal Judgment Prediction](https://arxiv.org/pdf/2004.02557.pdf). In *ACL 2020*.
 * ppt:  [20200503_cxd](ppts/20200503_cxd.pdf)
-* method: GCL+GDO
+* method: GCL + GDO
 
 ## Datasets

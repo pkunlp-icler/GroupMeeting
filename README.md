@@ -116,18 +116,18 @@ repoter: Tianyang Cao
 * ppt: [20200329_cty](ppts/20200329_cty.pdf)
 * method: Matching score + skeleton to generation
 
-2020/04/26
-repoter:Tianyang Cao
-* paper: Yun-Zhu Song, Hong-Han Shuai, Sung-Lin Yeh,  Yi-Lun Wu, Lun-Wei Ku, Wen-Chih Peng. 2020. [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf). In *AAAI 2020*
-* ppt: [20200426_cty](ppts/20200426_cty.pdf)
-* method: Article extractor with popular topic attention + popularity predictor + RL
-
 
 2020/04/05
 repoter: Songge Zhao
 * paper: Weichao Wang , Shi Feng , Daling Wang , Yifei Zhang [Answer-guided and Semantic Coherent Question Generation in Open-domain Conversation](https://www.aclweb.org/anthology/D19-1511/). In *EMNLP 2019*.
 * ppt: [20200405_zsg](ppts/20200405_zsg.pdf)
 * method:RL + AL + CVAE genration
+
+2020/04/26
+repoter:Tianyang Cao
+* paper: Yun-Zhu Song, Hong-Han Shuai, Sung-Lin Yeh,  Yi-Lun Wu, Lun-Wei Ku, Wen-Chih Peng. 2020. [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf). In *AAAI 2020*
+* ppt: [20200426_cty](ppts/20200426_cty.pdf)
+* method: Article extractor with popular topic attention + popularity predictor + RL
 
 
 ### 5. Medical Text Processing

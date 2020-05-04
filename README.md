@@ -149,4 +149,10 @@ reporter: Huan Zhang
 * ppt:  [20200426_zh](ppts/20200426.pdf)
 * method: Boundary-aware + categorical labels prediction + nested ner
 
+### 6. Law Judgement Prediction
+reporter: Xudong Chen
+* paper: Nuo Xu, PinghuiWang, Long Chen, Li Pan, Xiaoyan Wang, Junzhou Zhao,  2020. [Distinguish Confusing Law Articles for Legal Judgment Prediction](https://arxiv.org/pdf/2004.02557.pdf). In *ACL 2020*.
+* ppt:  [20200503_cxd](ppts/20200503_cxd.pdf)
+* method: GCL+GDO
+
 ## Datasets

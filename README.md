@@ -160,7 +160,7 @@ reporter: Xudong Chen
 2020/05/12
 reporter: Wei Cui
 * paper: Longyin Zhang, Yuqing Xing, Fang Kong, Peifeng Li, Guodong Zhou. 2020. [A Top-Down Neural Architecture towards Text-Level Parsing of Discourse Rhetorical Structure](https://arxiv.org/abs/2005.02680). In *ACL 2020*.
-* ppt:  [20200512_cw](ppts/20200512_cw.pdf)
+* ppt:  [20200512_cw](ppts/20200512_cuiwei.pdf)
 * method: GRU-CNN-GRU encoder + biaffine attention + Attention-based Encoder-Decoder on Split Point Ranking
 
 ## Datasets

@@ -163,4 +163,12 @@ reporter: Wei Cui
 * ppt:  [20200512_cw](ppts/20200512_cuiwei.pdf)
 * method: GRU-CNN-GRU encoder + biaffine attention + Attention-based Encoder-Decoder on Split Point Ranking
 
+
+### 8. Knowledge Distilling
+2020/05/12
+reporter: Runxin Xu
+* paper: Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu. 2020. [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351). In *ICLR 2020*.
+* ppt:  [20200512_xrx](ppts/20200512_xrx.pdf)
+* method: Konwledge Distilling
+
 ## Datasets

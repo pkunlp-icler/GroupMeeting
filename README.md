@@ -64,10 +64,16 @@ reporter: Runxin Xu
 
 2020/05/03
 reporter: Yuan Zong
-* paper: Wenya Wang, Sinno Jialin Pan . [Integrating Deep Learning with Logic Fusion for Information Extraction
+* paper: Wenya Wang, Sinno Jialin Pan. 2020. [Integrating Deep Learning with Logic Fusion for Information Extraction
 ](https://arxiv.org/abs/1912.03041). In *AAAI 2020*.
 * ppt:  [20200503_zy](ppts/20200503_zy.pdf)
 * method: Transformer & Logic Fusion
+
+2020/05/17
+reporter: Shuang Zeng
+* paper: Kai Sun, Richong Zhang, Samuel Mensah, Yongyi Mao, Xudong Liu. 2020. [Recurrent Interaction Network for Jointly Extracting Entities and Classifying Relations](https://arxiv.org/abs/2005.00162). In *Arxiv Preprint*.
+* ppt:  [20200517_zs](ppts/20200517_zs.pdf)
+* method: Recurrent Interaction Network
 
 ### 2. Semantic Role Labeling
 2020/02/23

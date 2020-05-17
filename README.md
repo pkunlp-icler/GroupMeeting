@@ -6,6 +6,9 @@
     * [Dependency Parsing](#3-dependency-parsing)
     * [Math Problem Generation](#4-math-problem-generation)
     * [Medical Text Processing](#5-medical-text-processing)
+    * [Law Judgement Prediction](#6-law-judgement-prediction)
+    * [Discourse Parsing](#7-discourse-parsing)
+    * [Knowledge Distilling](#8-knowledge-distilling)
 * [Datasets](#datasets)
    
 

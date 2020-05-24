@@ -138,6 +138,12 @@ repoter:Tianyang Cao
 * ppt: [20200426_cty](ppts/20200426_cty.pdf)
 * method: Article extractor with popular topic attention + popularity predictor + RL
 
+2020/05/24
+repoter: Tianyang Cao
+* paper: Siqi Bao, Huang He, Fan Wang, Hua Wu and Haifeng Wang. 2020. [PLATO: Pre-trained Dialogue Generation Model with
+Discrete Latent Variable](https://arxiv.org/pdf/1910.07931.pdf). In *ACL 2020* 
+* ppt: [20200524_cty](ppts/20200524_cty.pdf)
+
 
 ### 5. Medical Text Processing
 2020/03/01

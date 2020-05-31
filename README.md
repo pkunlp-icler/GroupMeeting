@@ -186,4 +186,12 @@ reporter: Runxin Xu
 * ppt:  [20200512_xrx](ppts/20200512_xrx.pdf)
 * method: Konwledge Distilling
 
+
+### 9. Data Augmentation
+2020/05/31
+reporter: Yuan Zong
+* paper: Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu. 2020. [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classiﬁcation](https://arxiv.org/abs/2004.12239). In *ACL 2020*.
+* ppt:  [20200531_zy](ppts/20200531_zy.pdf)
+* method: Data mixing + Semi-supervised
+
 ## Datasets

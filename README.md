@@ -194,4 +194,11 @@ reporter: Yuan Zong
 * ppt:  [20200531_zy](ppts/20200531_zy.pdf)
 * method: Data mixing + Semi-supervised
 
+### 10. Transformer
+2020/06/07
+reporter: Runxin Xu
+* paper: Hao Peng, Roy Schwartz, Dianqi Li, Noah A. Smith. 2020. [A Mixture of h−1 Heads is Better than h Heads](https://arxiv.org/abs/2005.06537). In *ACL 2020*.
+* ppt:  [20200607_xrx](ppts/20200607_xrx.pdf)
+* method: Consider multi-head self-attention as a mixture of experts + modify gate mechanism
+
 ## Datasets

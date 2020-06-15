@@ -6,11 +6,12 @@
     * [Dependency Parsing](#3-dependency-parsing)
     * [Math Problem Generation](#4-math-problem-generation)
     * [Medical Text Processing](#5-medical-text-processing)
-    * [Law Judgement Prediction](#6-law-judgement-prediction)
-    * [Discourse Parsing](#7-discourse-parsing)
-    * [Knowledge Distilling](#8-knowledge-distilling)
-    * [Data Augmentation](#9-data-augmentation)
-    * [Transformer](#10-transformer)
+    * [Named Entity Recognition](#6-named-entity-recognition)
+    * [Law Judgement Prediction](#7-law-judgement-prediction)
+    * [Discourse Parsing](#8-discourse-parsing)
+    * [Knowledge Distilling](#9-knowledge-distilling)
+    * [Data Augmentation](#10-data-augmentation)
+    * [Transformer](#11-transformer)
 * [Datasets](#datasets)
    
 
@@ -161,6 +162,7 @@ reporter: Huan Zhang
 * ppt:  [20200301_zh](ppts/20200301_zh.pdf)
 * method: Simultaneously link entities and extract relationships
 
+### 6. Named Entity Recognition
 2020/03/29
 reporter: Huan Zhang
 * paper: Angli Liu, Jingfei Du, Veselin Stoyanov,  2019. [Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition](https://arxiv.org/abs/1904.04458). In *NAACL 2019*.
@@ -173,14 +175,21 @@ reporter: Huan Zhang
 * ppt:  [20200426_zh](ppts/20200426_zh.pdf)
 * method: Boundary-aware + categorical labels prediction + nested ner
 
-### 6. Law Judgement Prediction
+2020/05/24
+reporter: Huan Zhang
+* paper: Esteban Safranchik, Shiying Luo, Stephen H. Bach, 2020. [Weakly Supervised Sequence Tagging from Noisy Rules](http://cs.brown.edu/people/sbach/files/safranchik-aaai20.pdf). In *AAAI 2020*.
+* ppt:  [20200524_zh](ppts/20200524_zh.pdf)
+* method: Weakly Supervised + Rules
+
+
+### 7. Law Judgement Prediction
 2020/05/03
 reporter: Xudong Chen
 * paper: Nuo Xu, PinghuiWang, Long Chen, Li Pan, Xiaoyan Wang, Junzhou Zhao,  2020. [Distinguish Confusing Law Articles for Legal Judgment Prediction](https://arxiv.org/pdf/2004.02557.pdf). In *ACL 2020*.
 * ppt:  [20200503_cxd](ppts/20200503_cxd.pdf)
 * method: GCL + GDO
 
-### 7. Discourse Parsing
+### 8. Discourse Parsing
 2020/05/12
 reporter: Wei Cui
 * paper: Longyin Zhang, Yuqing Xing, Fang Kong, Peifeng Li, Guodong Zhou. 2020. [A Top-Down Neural Architecture towards Text-Level Parsing of Discourse Rhetorical Structure](https://arxiv.org/abs/2005.02680). In *ACL 2020*.
@@ -188,7 +197,7 @@ reporter: Wei Cui
 * method: GRU-CNN-GRU encoder + biaffine attention + Attention-based Encoder-Decoder on Split Point Ranking
 
 
-### 8. Knowledge Distilling
+### 9. Knowledge Distilling
 2020/05/12
 reporter: Runxin Xu
 * paper: Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu. 2020. [TinyBERT: Distilling BERT for Natural Language Understanding](https://arxiv.org/abs/1909.10351). In *ICLR 2020*.
@@ -196,18 +205,19 @@ reporter: Runxin Xu
 * method: Konwledge Distilling
 
 
-### 9. Data Augmentation
+### 10. Data Augmentation
 2020/05/31
 reporter: Yuan Zong
 * paper: Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, Qun Liu. 2020. [MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classiﬁcation](https://arxiv.org/abs/2004.12239). In *ACL 2020*.
 * ppt:  [20200531_zy](ppts/20200531_zy.pdf)
 * method: Data mixing + Semi-supervised
 
-### 10. Transformer
+### 11. Transformer
 2020/06/07
 reporter: Runxin Xu
 * paper: Hao Peng, Roy Schwartz, Dianqi Li, Noah A. Smith. 2020. [A Mixture of h−1 Heads is Better than h Heads](https://arxiv.org/abs/2005.06537). In *ACL 2020*.
 * ppt:  [20200607_xrx](ppts/20200607_xrx.pdf)
 * method: Consider multi-head self-attention as a mixture of experts + modify gate mechanism
+
 
 ## Datasets

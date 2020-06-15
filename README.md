@@ -1,6 +1,6 @@
 # GroupMeeting
 
-* [Task](#task)
+* [Tasks or Methods](#tasks-or-methods)
     * [Relation Extraction](#1-relation-extraction)
     * [Semantic Role Labeling](#2-semantic-role-labeling)
     * [Dependency Parsing](#3-dependency-parsing)
@@ -9,10 +9,12 @@
     * [Law Judgement Prediction](#6-law-judgement-prediction)
     * [Discourse Parsing](#7-discourse-parsing)
     * [Knowledge Distilling](#8-knowledge-distilling)
+    * [Data Augmentation](#9-data-augmentation)
+    * [Transformer](#10-transformer)
 * [Datasets](#datasets)
    
 
-## Task
+## Tasks or Methods
 ### 1. Relation Extraction
 2020/02/23
 reporter: Shuang Zeng

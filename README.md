@@ -220,11 +220,17 @@ reporter: Runxin Xu
 * method: Consider multi-head self-attention as a mixture of experts + modify gate mechanism
 
 
-### 12. Language Models
+### 12. Numerical Embedding
 2020/05/17
 reporter: Songge Zhao
 * paper: Mor Geva, Ankit Gupta, Jonathan Berant. 2020. [Injecting Numerical Reasoning Skills into Language Models](https://arxiv.org/abs/2004.04487). In *ACL 2020*.
 * ppt:  [20200517_zsg](ppts/20200517_zsg.pdf)
 * method: Specific Pre-training + fine-tuning
+
+2020/05/17
+reporter: Songge Zhao
+* paper: Eric Wallace, Yizhong Wang, Sujian Li, Sameer Singh, Matt Gardner. 2019. [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940). In *EMNLP 2019*.
+* ppt:  [20200531_zsg](ppts/20200531_zsg.pdf)
+* method: to be fixed
 
 ## Datasets

@@ -227,7 +227,7 @@ reporter: Songge Zhao
 * ppt:  [20200517_zsg](ppts/20200517_zsg.pdf)
 * method: Specific Pre-training + fine-tuning
 
-2020/05/17
+2020/05/31
 reporter: Songge Zhao
 * paper: Eric Wallace, Yizhong Wang, Sujian Li, Sameer Singh, Matt Gardner. 2019. [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940). In *EMNLP 2019*.
 * ppt:  [20200531_zsg](ppts/20200531_zsg.pdf)

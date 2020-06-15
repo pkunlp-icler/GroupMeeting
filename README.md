@@ -182,6 +182,12 @@ reporter: Huan Zhang
 * ppt:  [20200524_zh](ppts/20200524_zh.pdf)
 * method: Weakly Supervised + Rules
 
+2020/06/14
+reporter: Xudong Chen
+* paper: Xiaoya Li, Jingrong Feng, Yuxian Meng, Qinghong Han, Fei Wu and Jiwei Li, 2020. [A Unified MRC Framework for Named Entity Recognition](https://arxiv.org/pdf/1910.11476.pdf). In *ACL 2020*.
+* ppt:  [20200614_cxd](ppts/20200614_cxd.pdf)
+* method: Weakly Supervised + Rules
+
 
 ### 7. Law Judgement Prediction
 2020/05/03

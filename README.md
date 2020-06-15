@@ -12,6 +12,7 @@
     * [Knowledge Distilling](#9-knowledge-distilling)
     * [Data Augmentation](#10-data-augmentation)
     * [Transformer](#11-transformer)
+    * [Numerical Embedding](#12-numerical-embedding)
 * [Datasets](#datasets)
    
 

@@ -78,6 +78,13 @@ reporter: Shuang Zeng
 * ppt:  [20200517_zs](ppts/20200517_zs.pdf)
 * method: Recurrent Interaction Network
 
+2020/06/14
+reporter: Shuang Zeng
+* paper: Guoshun Nan, Zhijiang Guo, Ivan Sekulić, Wei Lu. 2020. [Reasoning with Latent Structure Refinement for Document-Level Relation Extraction](https://arxiv.org/abs/2005.06312). In *ACL 2020*.
+* ppt:  [20200614_zs](ppts/20200614_zs.pdf)
+* method: Node Constructor + Structure Attention based Sturcture Induction + Multi-hop Reasoning
+
+
 ### 2. Semantic Role Labeling
 2020/02/23
 reporter: Xudong Chen

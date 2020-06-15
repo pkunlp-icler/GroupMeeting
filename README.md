@@ -220,4 +220,11 @@ reporter: Runxin Xu
 * method: Consider multi-head self-attention as a mixture of experts + modify gate mechanism
 
 
+### 12. Language Models
+2020/05/17
+reporter: Songge Zhao
+* paper: Mor Geva, Ankit Gupta, Jonathan Berant. 2020. [Injecting Numerical Reasoning Skills into Language Models](https://arxiv.org/abs/2004.04487). In *ACL 2020*.
+* ppt:  [20200517_zsg](ppts/20200517_zsg.pdf)
+* method: Specific Pre-training + fine-tuning
+
 ## Datasets

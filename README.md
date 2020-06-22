@@ -194,10 +194,10 @@ reporter: Xudong Chen
 * ppt:  [20200614_cxd](ppts/20200614_cxd.pdf)
 * method: Weakly Supervised + Rules
 
-2020/06/22
+2020/06/21
 reporter: Huan Zhang
 * paper: Hiroki Ouchi, Jun Suzuki, Sosuke Kobayashi, Sho Yokoi, Tatsuki Kuribayashi, Ryuto Konno, Kentaro Inui, 2020. [Instance-Based Learning of Span Representations:A Case Study through Named Entity Recognition](https://arxiv.org/pdf/2004.14514.pdf). In *ACL 2020*.
-* ppt:  [20200622_zh](ppts/20200622_zh.pdf)
+* ppt:  [20200621_zh](ppts/20200621_zh.pdf)
 * method: instence-based + ner
 
 

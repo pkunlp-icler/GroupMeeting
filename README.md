@@ -155,6 +155,12 @@ repoter: Tianyang Cao
 Discrete Latent Variable](https://arxiv.org/pdf/1910.07931.pdf). In *ACL 2020* 
 * ppt: [20200524_cty](ppts/20200524_cty.pdf)
 
+2020/06/21
+repoter: Tianyang Cao
+* paper: Di Jin, Zhijing Jin, Joey Tianyi Zhou,Lisa Orii,Peter Szolovits. 2020. [Hooks in the Headline: Learning to Generate Headlines with Controlled Styles](http://xxx.itp.ac.cn/pdf/2004.01980.pdf). In *ACL 2020*
+* ppt: [20200621_cty](ppts/20200621_cty.pdf)
+
+
 
 ### 5. Medical Text Processing
 2020/03/01

@@ -13,6 +13,7 @@
     * [Data Augmentation](#10-data-augmentation)
     * [Transformer](#11-transformer)
     * [Numerical Embedding](#12-numerical-embedding)
+    * [Question Answering](#13-question-answering)
 * [Datasets](#datasets)
    
 
@@ -254,5 +255,13 @@ reporter: Songge Zhao
 * paper: Eric Wallace, Yizhong Wang, Sujian Li, Sameer Singh, Matt Gardner. 2019. [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://arxiv.org/abs/1909.07940). In *EMNLP 2019*.
 * ppt:  [20200531_zsg](ppts/20200531_zsg.pdf)
 * method: to be fixed
+
+### 13. Question Answering
+2020/07/05
+reporter: Shuang Zeng
+* paper1: Lin Qiu, Yunxuan Xiao, Yanru Qu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu. 2019. [Dynamically Fused Graph Network for Multi-hop Reasoning](https://www.aclweb.org/anthology/P19-1617/). In *ACL 2019*.
+* paper2: Nan Shao, Yiming Cui, Ting Liu, Shijin Wang, Guoping Hu. 2020. [Is Graph Structure Necessary for Multi-hop Reasoning?](https://arxiv.org/abs/2004.03096). In *Arxiv Preprint*.
+* ppt:  [20200705_zs](ppts/20200705_zs.pdf)
+* method: Paragraph Selector + Constructing Entity Graph + Encoding Query and Context + Reasoning with the Fusion Block
 
 ## Datasets

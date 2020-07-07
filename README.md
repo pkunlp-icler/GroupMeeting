@@ -264,4 +264,10 @@ reporter: Shuang Zeng
 * ppt:  [20200705_zs](ppts/20200705_zs.pdf)
 * method: Paragraph Selector + Constructing Entity Graph + Encoding Query and Context + Reasoning with the Fusion Block
 
+2020/07/05
+reporter: Xudong Chen
+* paper: Shaoru Guo, Ru Li, Hongye Tan, Xiaoli Li, Yong Guan,Hongyan Zhao and Yueping Zhang. 2020. [A Frame-based Sentence Representation for Machine Reading
+Comprehension](https://www.aclweb.org/anthology/2020.acl-main.83.pdf). In *ACL 2020*.
+* ppt:  [20200705_cxd](ppts/20200705_cxd.pdf)
+* method: Bert + Frame-based Sentence Representation
 ## Datasets

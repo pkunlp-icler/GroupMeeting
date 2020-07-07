@@ -163,7 +163,11 @@ repoter: Tianyang Cao
 * ppt: [20200621_cty](ppts/20200621_cty.pdf)
 * method: Multitask learning and parameters sharing 
 
-
+2020/06/28
+repoter: Songge Zhao
+* paper: Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah. 2020. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165). In *ACL 2020*
+* ppt: [20200628_zsg](ppts/20200628_zsg.pdf)
+* method: GPT3 pre_train LM
 
 
 ### 5. Medical Text Processing

@@ -208,6 +208,12 @@ reporter: Huan Zhang
 * ppt:  [20200621_zh](ppts/20200621_zh.pdf)
 * method: instence-based + ner
 
+2020/06/28
+reporter: Yuan Zong
+* paper: Xiang Dai, Sarvnaz Karimi, Ben Hachey, Cecile Paris1 2020. [An Effective Transition-based Model for Discontinuous NER](https://arxiv.org/abs/2004.13454). In *ACL 2020*.
+* ppt:  [20200628_zy](ppts/20200628_zy.pdf)
+* method: ner like dependency parsing
+
 
 ### 7. Law Judgement Prediction
 2020/05/03

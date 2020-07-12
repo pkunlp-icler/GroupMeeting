@@ -169,6 +169,13 @@ repoter: Songge Zhao
 * ppt: [20200628_zsg](ppts/20200628_zsg.pdf)
 * method: GPT3 pre_train LM
 
+2020/07/12
+repoter: Tianyang Cao
+* paper: Zhiliang Tian, Wei Bi, Dongkyu Lee, Lanqing Xue, Yiping Song, Xiaojiang Liu,  Nevin L. Zhang. 2020.  [Response-Anticipated Memory for
+On-Demand Knowledge Integration in Response Generation](https://www.aclweb.org/anthology/2020.acl-main.61.pdf)
+* ppt: [20200712_cty](ppts/20200712_cty.pdf)
+* method: teacher-student framework + response-aware document memory construction
+
 
 ### 5. Medical Text Processing
 2020/03/01

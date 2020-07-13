@@ -222,6 +222,13 @@ reporter: Yuan Zong
 * method: ner like dependency parsing
 
 
+2020/07/12
+reporter: Huan Zhang
+* paper: Bill Yuchen Lin, Dong-Ho Lee, Ming Shen, Ryan Moreno, Xiao Huang, Prashant Shiralkar, Xiang Ren, 2020. [TriggerNER: Learning with Entity Triggers as Explanations for Named Entity Recognition](https://arxiv.org/pdf/2004.07493v1.pdf). In *ACL 2020*.
+* ppt:  [20200712_zh](ppts/20200712_zh.pdf)
+* method: entity trigger + ner -> cost-effective result
+
+
 ### 7. Law Judgement Prediction
 2020/05/03
 reporter: Xudong Chen

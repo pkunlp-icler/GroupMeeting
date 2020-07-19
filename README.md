@@ -294,4 +294,11 @@ reporter: Xudong Chen
 Comprehension](https://www.aclweb.org/anthology/2020.acl-main.83.pdf). In *ACL 2020*.
 * ppt:  [20200705_cxd](ppts/20200705_cxd.pdf)
 * method: Bert + Frame-based Sentence Representation
+
+### 14. Chinese Word Segmentation
+reporter: Yuan Zong
+* paper: Ning Ding, Dingkun Long, Guangwei Xu, Muhua Zhu, Pengjun Xie, Xiaobin Wang, Hai-Tao Zheng. 2020. [Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation](https://arxiv.org/pdf/2007.08186.pdf). In *ACL 2020*.
+* ppt:  [20200717_zy](ppts/20200719_zy.pdf)
+* method: Distant Annotation and Adversarial Training
+
 ## Datasets

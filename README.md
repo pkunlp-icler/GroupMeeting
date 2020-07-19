@@ -89,6 +89,12 @@ reporter: Shuang Zeng
 * ppt:  [20200614_zs](ppts/20200614_zs.pdf)
 * method: Node Constructor + Structure Attention based Sturcture Induction + Multi-hop Reasoning
 
+2020/07/18
+reporter: Runxin Xu
+* paper: Pengcheng Yin, Graham Neubig, Wen-tau Yih, Sebastian Riedel. 2020. [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/abs/2005.08314). In *ACL 2020*.
+* ppt:  [20200718_xrx](ppts/20200718_xrx.pdf)
+* method: Pretraining for Table Data.
+
 
 ### 2. Semantic Role Labeling
 2020/02/23

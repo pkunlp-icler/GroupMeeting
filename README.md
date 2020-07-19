@@ -92,7 +92,7 @@ reporter: Shuang Zeng
 2020/07/18
 reporter: Runxin Xu
 * paper: Pengcheng Yin, Graham Neubig, Wen-tau Yih, Sebastian Riedel. 2020. [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/abs/2005.08314). In *ACL 2020*.
-* ppt:  [20200718_xrx](ppts/20200718_xrx.pdf)
+* ppt:  [20200718_xrx](ppts/20200719_xrx.pdf)
 * method: Pretraining for Table Data.
 
 

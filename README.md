@@ -182,6 +182,19 @@ On-Demand Knowledge Integration in Response Generation](https://www.aclweb.org/a
 * ppt: [20200712_cty](ppts/20200712_cty.pdf)
 * method: teacher-student framework + response-aware document memory construction
 
+2020/08/02 
+repoter: Tianyang Cao
+* paper: Rashmi Gangadharaiah，Balakrishnan Narayanaswamy。 2020. [Recursive Template-based Frame Generation for Task Oriented Dialog](https://www.aclweb.org/anthology/2020.acl-main.186.pdf)
+* ppt: [20200802_cty](ppts/20200802_cty.pdf)
+* method: slot decoder + tree decoder
+
+2020/08/02
+repoter: Tianyang Cao
+* paper: [Yanbin Zhao, Lu Chen, Zhi Chen, Ruisheng Cao, Su Zhu, Kai YuLine Graph Enhanced AMR-to-Text Generation with Mix-Order Graph
+Attention Networks](https://www.aclweb.org/anthology/2020.acl-main.67.pdf)
+* ppt: [20200802_cty](ppts/20200802_cty.pdf)
+* method: dual graph + mix order Graph Attention Network
+
 
 ### 5. Medical Text Processing
 2020/03/01

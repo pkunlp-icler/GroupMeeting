@@ -194,6 +194,12 @@ repoter: Tianyang Cao
 * ppt: [20200712_cty](ppts/20200712_cty.pdf)
 * method: teacher-student framework + response-aware document memory construction
 
+2020/07/26
+repoter: Songge Zhao
+* paper: Chao Zhao, Marilyn Walker, Snigdha Chaturvedi. 2020. [Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.224/). In *ACL 2020*.
+* ppt: [20200726_zsg](ppts/20200726_zsg.pdf)
+* method: GCN encoder with planning encoder on WebNLG
+
 2020/08/02
 repoter: Tianyang Cao
 * paper1: Rashmi Gangadharaiah，Balakrishnan Narayanaswamy. 2020. [Recursive Template-based Frame Generation for Task Oriented Dialog](https://www.aclweb.org/anthology/2020.acl-main.186.pdf). In *ACL 2020*.

@@ -14,6 +14,7 @@
     * [Transformer](#11-transformer)
     * [Numerical Embedding](#12-numerical-embedding)
     * [Question Answering](#13-question-answering)
+    * [Chinese Word Segmentation](#14-chinese-word-segmentation)
 * [Datasets](#datasets)
    
 
@@ -72,8 +73,7 @@ reporter: Runxin Xu
 
 2020/05/03
 reporter: Yuan Zong
-* paper: Wenya Wang, Sinno Jialin Pan. 2020. [Integrating Deep Learning with Logic Fusion for Information Extraction
-](https://arxiv.org/abs/1912.03041). In *AAAI 2020*.
+* paper: Wenya Wang, Sinno Jialin Pan. 2020. [Integrating Deep Learning with Logic Fusion for Information Extraction](https://arxiv.org/abs/1912.03041). In *AAAI 2020*.
 * ppt:  [20200503_zy](ppts/20200503_zy.pdf)
 * method: Transformer & Logic Fusion
 
@@ -99,7 +99,7 @@ reporter: Runxin Xu
 ### 2. Semantic Role Labeling
 2020/02/23
 reporter: Xudong Chen
-* paper: Zuchao Li, Shexia He, Junru Zhou, Hai Zhao, Kevin Par Rui Wang. 2019. [Dependency and Span, Cross-Style Semantic Role Labeling on PropBank and NomBank](https://arxiv.org/abs/1911.02851). In *arxiv preprint*.
+* paper: Zuchao Li, Shexia He, Junru Zhou, Hai Zhao, Kevin Par Rui Wang. 2019. [Dependency and Span, Cross-Style Semantic Role Labeling on PropBank and NomBank](https://arxiv.org/abs/1911.02851). In *Arxiv Preprint*.
 * ppt:  [20200223_cxd](ppts/20200223_cxd.pdf)
 * method: BiLSTM + Syntactic Aided + Biaffine
 
@@ -119,7 +119,7 @@ reporter: Wei Cui
 
 2020/04/12
 reporter: Wei Cui
-* paper: Alireza Mohammadshahi and James Henderson. 2020. [Recursive Non-Autoregressive Graph-to-Graph Transformer for Dependency Parsing with Iterative Refinement](https://arxiv.org/abs/2003.13118). In *arxiv preprint*.
+* paper: Alireza Mohammadshahi and James Henderson. 2020. [Recursive Non-Autoregressive Graph-to-Graph Transformer for Dependency Parsing with Iterative Refinement](https://arxiv.org/abs/2003.13118). In *Arxiv Preprint*.
 * ppt:  [20200412_cw](ppts/20200412_cw.pdf)
 * method: Graph-to-Graph Iterative Refinement
 
@@ -127,7 +127,7 @@ reporter: Wei Cui
 ### 4. Math Problem Generation
 2020/03/01
 reporter: Tianyang Cao 
-* paper: Xinyu Hua and Lu Wang. 2019. [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://arxiv.org/abs/1909.09734). In *arxiv preprint*.
+* paper: Xinyu Hua and Lu Wang. 2019. [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://arxiv.org/abs/1909.09734). In *Arxiv Preprint*.
 * ppt: [20200301_cty](ppts/20200301_cty.pdf)
 * method: context planning decoder+ style specification
 
@@ -152,40 +152,38 @@ repoter: Songge Zhao
 
 2020/04/26
 repoter:Tianyang Cao
-* paper: Yun-Zhu Song, Hong-Han Shuai, Sung-Lin Yeh,  Yi-Lun Wu, Lun-Wei Ku, Wen-Chih Peng. 2020. [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf). In *AAAI 2020*
+* paper: Yun-Zhu Song, Hong-Han Shuai, Sung-Lin Yeh,  Yi-Lun Wu, Lun-Wei Ku, Wen-Chih Peng. 2020. [Attractive or Faithful? Popularity-Reinforced Learning for Inspired Headline Generation](https://arxiv.org/pdf/2002.02095.pdf). In *AAAI 2020*.
 * ppt: [20200426_cty](ppts/20200426_cty.pdf)
 * method: Article extractor with popular topic attention + popularity predictor + RL
 
 2020/05/24
 repoter: Tianyang Cao
-* paper: Siqi Bao, Huang He, Fan Wang, Hua Wu and Haifeng Wang. 2020. [PLATO: Pre-trained Dialogue Generation Model with
-Discrete Latent Variable](https://arxiv.org/pdf/1910.07931.pdf). In *ACL 2020* 
+* paper: Siqi Bao, Huang He, Fan Wang, Hua Wu and Haifeng Wang. 2020. [PLATO: Pre-trained Dialogue Generation Model with Discrete Latent Variable](https://arxiv.org/pdf/1910.07931.pdf). In *ACL 2020*.
 * ppt: [20200524_cty](ppts/20200524_cty.pdf)
 * method: Discrete latent variable + context-response matching pretraining
 
 2020/06/21
 repoter: Tianyang Cao
-* paper: Di Jin, Zhijing Jin, Joey Tianyi Zhou,Lisa Orii,Peter Szolovits. 2020. [Hooks in the Headline: Learning to Generate Headlines with Controlled Styles](http://xxx.itp.ac.cn/pdf/2004.01980.pdf). In *ACL 2020*
+* paper: Di Jin, Zhijing Jin, Joey Tianyi Zhou,Lisa Orii,Peter Szolovits. 2020. [Hooks in the Headline: Learning to Generate Headlines with Controlled Styles](http://xxx.itp.ac.cn/pdf/2004.01980.pdf). In *ACL 2020*.
 * ppt: [20200621_cty](ppts/20200621_cty.pdf)
 * method: Multitask learning and parameters sharing 
 
 2020/06/28
 repoter: Songge Zhao
-* paper: Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah. 2020. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165). 
+* paper: Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah. 2020. [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165). In *Arxiv Preprint*.
 * ppt: [20200628_zsg](ppts/20200628_zsg.pdf)
 * method: GPT3 pre_train LM
 
 2020/07/12
 repoter: Tianyang Cao
-* paper: Zhiliang Tian, Wei Bi, Dongkyu Lee, Lanqing Xue, Yiping Song, Xiaojiang Liu,  Nevin L. Zhang. 2020.  [Response-Anticipated Memory for
-On-Demand Knowledge Integration in Response Generation](https://www.aclweb.org/anthology/2020.acl-main.61.pdf)
+* paper: Zhiliang Tian, Wei Bi, Dongkyu Lee, Lanqing Xue, Yiping Song, Xiaojiang Liu,  Nevin L. Zhang. 2020.  [Response-Anticipated Memory for On-Demand Knowledge Integration in Response Generation](https://www.aclweb.org/anthology/2020.acl-main.61.pdf). In *ACL 2020*.
 * ppt: [20200712_cty](ppts/20200712_cty.pdf)
 * method: teacher-student framework + response-aware document memory construction
 
 2020/08/02
 repoter: Tianyang Cao
-* paper1: Rashmi Gangadharaiah，Balakrishnan Narayanaswamy. 2020. [Recursive Template-based Frame Generation for Task Oriented Dialog](https://www.aclweb.org/anthology/2020.acl-main.186.pdf). In *ACL 2020*
-* paper2: Yanbin Zhao, Lu Chen, Zhi Chen, Ruisheng Cao, Su Zhu, Kai YuLine. 2020. [ Graph Enhanced AMR-to-Text Generation with Mix-Order GraphAttention Networks](https://www.aclweb.org/anthology/2020.acl-main.67.pdf). In *ACL 2020*
+* paper1: Rashmi Gangadharaiah，Balakrishnan Narayanaswamy. 2020. [Recursive Template-based Frame Generation for Task Oriented Dialog](https://www.aclweb.org/anthology/2020.acl-main.186.pdf). In *ACL 2020*.
+* paper2: Yanbin Zhao, Lu Chen, Zhi Chen, Ruisheng Cao, Su Zhu, Kai YuLine. 2020. [ Graph Enhanced AMR-to-Text Generation with Mix-Order GraphAttention Networks](https://www.aclweb.org/anthology/2020.acl-main.67.pdf). In *ACL 2020*.
 * ppt: [20200802_cty](ppts/20200802_cty.pdf)
 * method: slot decoder + tree decoder, dual graph + mix order Graph Attention Network
 
@@ -303,8 +301,7 @@ reporter: Shuang Zeng
 
 2020/07/05
 reporter: Xudong Chen
-* paper: Shaoru Guo, Ru Li, Hongye Tan, Xiaoli Li, Yong Guan,Hongyan Zhao and Yueping Zhang. 2020. [A Frame-based Sentence Representation for Machine Reading
-Comprehension](https://www.aclweb.org/anthology/2020.acl-main.83.pdf). In *ACL 2020*.
+* paper: Shaoru Guo, Ru Li, Hongye Tan, Xiaoli Li, Yong Guan,Hongyan Zhao and Yueping Zhang. 2020. [A Frame-based Sentence Representation for Machine Reading Comprehension](https://www.aclweb.org/anthology/2020.acl-main.83.pdf). In *ACL 2020*.
 * ppt:  [20200705_cxd](ppts/20200705_cxd.pdf)
 * method: Bert + Frame-based Sentence Representation
 

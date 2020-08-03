@@ -93,7 +93,21 @@ reporter: Shuang Zeng
 reporter: Runxin Xu
 * paper: Pengcheng Yin, Graham Neubig, Wen-tau Yih, Sebastian Riedel. 2020. [TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data](https://arxiv.org/abs/2005.08314). In *ACL 2020*.
 * ppt:  [20200718_xrx](ppts/20200719_xrx.pdf)
-* method: Pretraining for Table Data.
+* method: Pretraining for Table Data
+
+2020/08/02
+reporter: Shuang Zeng
+* paper1: Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh. 2020. [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442/). In *ACL 2020*.
+* method: CheckList for generalization in NLP models
+* paper2: Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, Noah A. Smith. 2020. [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://www.aclweb.org/anthology/2020.acl-main.740/). In *ACL 2020*.
+* method: Multi-phase Adaptive Pre-training on domains and tasks
+* paper3: Yi Luan, Luheng He, Mari Ostendorf, Hannaneh Hajishirzi. 2018. [Multi-Task Identification of Entities, Relations, and Coreference for Scientific Knowledge Graph Construction](https://www.aclweb.org/anthology/D18-1360/). In *EMNLP 2018*.
+* method: Mutil-task setup for NER + CR + RE
+* paper4: Cheng Li, Ye Tian. 2020. [Downstream Model Design of Pre-trained Language Model for Relation Extraction Task](https://arxiv.org/abs/2004.03786). In *Arxiv Preprint*.
+* method: Downstream design for RE using bert
+* paper5: Takashi Ishida, Ikko Yamane, Tomoya Sakai, Gang Niu, Masashi Sugiyama. 2020. [Do We Need Zero Training Loss After Achieving Zero Training Error?](https://arxiv.org/abs/2002.08709). In *ICML 2020*.
+* method: Flooding loss for double decent on test loss
+* ppt:  [20200802_zs_xrx](ppts/20200802_zs.pdf)
 
 
 ### 2. Semantic Role Labeling

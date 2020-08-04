@@ -95,6 +95,13 @@ reporter: Runxin Xu
 * ppt:  [20200718_xrx](ppts/20200719_xrx.pdf)
 * method: Pretraining for Table Data
 
+2020/07/26
+reporter: Xudong Chen
+* paper: Pengcheng Yin, Graham Neubig, Wen-tau Yih, Sebastian Riedel. 2020. [A Joint Neural Model for Information Extraction with Global Features](https://www.aclweb.org/anthology/2020.acl-main.713.pdf). In *ACL 2020*.
+* ppt:  [20200726_cxd](ppts/20200726_cxd.pdf)
+* method: Muti-task+Global Features
+
+
 2020/08/02
 reporter: Shuang Zeng
 * paper1: Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh. 2020. [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442/). In *ACL 2020*.

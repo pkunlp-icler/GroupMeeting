@@ -15,6 +15,7 @@
     * [Numerical Embedding](#12-numerical-embedding)
     * [Question Answering](#13-question-answering)
     * [Chinese Word Segmentation](#14-chinese-word-segmentation)
+    * [Machine Translation](#15-machine-translation)
 * [Datasets](#datasets)
    
 
@@ -304,6 +305,12 @@ reporter: Runxin Xu
 * ppt:  [20200607_xrx](ppts/20200607_xrx.pdf)
 * method: Consider multi-head self-attention as a mixture of experts + modify gate mechanism
 
+2020/08/09
+reporter: Runxin Xu
+* paper: Weiqiu You, Simeng Sun, Mohit Iyyer. 2020. [Hard-Coded Gaussian Attention for Neural Machine Translation](https://arxiv.org/abs/2005.00742). In *ACL 2020*.
+* ppt:  [20200809_xrx](ppts/20200809_xrx.pdf)
+* method: Replace learned dot-product self-attention with hard-coded gaussian attention.
+
 
 ### 12. Numerical Embedding
 2020/05/17
@@ -337,5 +344,12 @@ reporter: Yuan Zong
 * paper: Ning Ding, Dingkun Long, Guangwei Xu, Muhua Zhu, Pengjun Xie, Xiaobin Wang, Hai-Tao Zheng. 2020. [Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation](https://arxiv.org/pdf/2007.08186.pdf). In *ACL 2020*.
 * ppt:  [20200717_zy](ppts/20200719_zy.pdf)
 * method: Distant Annotation and Adversarial Training
+
+### 15. Machine Translation
+2020/08/09
+reporter: Runxin Xu
+* paper: Jian Yang, Shuming Ma, Dongdong Zhang, Zhoujun Li, Ming Zhou. 2020. [Improving Neural Machine Translation with Soft Template Prediction](https://www.aclweb.org/anthology/2020.acl-main.531/). In *ACL 2020*.
+* ppt:  [20200809_xrx](ppts/20200809_xrx.pdf)
+* method: Soft Template in Target Side.
 
 ## Datasets

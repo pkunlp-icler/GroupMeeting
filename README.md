@@ -217,7 +217,7 @@ repoter: Tianyang Cao
 
 2020/08/09
 repoter: Huan Zhang
-* paper: Bayu Distiawan Trisedya, Jianzhong, Qi Rui Zhang. 2020. [Sentence Generation for Entity Description with Content-plan Attention]https://arxiv.org/pdf/1809.00582.pdf). In *AAAI 2020*.
+* paper: Bayu Distiawan Trisedya, Jianzhong, Qi Rui Zhang. 2020. [Sentence Generation for Entity Description with Content-plan Attention](https://arxiv.org/pdf/1809.00582.pdf). In *AAAI 2020*.
 * ppt: [20200809_zh](ppts/20200809_zh.pdf)
 * method: content plan + data-to-text
 

@@ -117,6 +117,12 @@ reporter: Shuang Zeng
 * method: Flooding loss for double decent on test loss
 * ppt:  [20200802_zs_xrx](ppts/20200802_zs.pdf)
 
+2020/08/16
+reporter: Xudong Chen
+* paper: Bowen Yu, Zhenyu Zhang, Xiaobo Shu, Yubin Wang, Tingwen Liu, Bin Wang, Sujian Li. 2019. [Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy](https://arxiv.org/abs/1909.04273v3).
+* ppt:  [20200815_cxd](ppts/20200815_cxd.pdf)
+* method: HBT+Decomposition Strategy
+
 
 ### 2. Semantic Role Labeling
 2020/02/23

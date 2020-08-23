@@ -227,6 +227,12 @@ repoter: Huan Zhang
 * ppt: [20200809_zh](ppts/20200809_zh.pdf)
 * method: content plan + data-to-text
 
+2020/08/23 
+repoter: Tianyang Cao
+* paper: Tim Van de Cruys. 2020. [Automatic Poetry Generation from Prosaic Text](https://www.aclweb.org/anthology/2020.acl-main.223.pdf). In *ACL 2020*.
+* ppt: [20200823_cty](ppts/20200823_cty.pdf)
+* method: rhyme constraint + topic constraint (with nonnegative matrix factorization)
+
 ### 5. Medical Text Processing
 2020/03/01
 reporter: Huan Zhang

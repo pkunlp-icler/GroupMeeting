@@ -123,6 +123,12 @@ reporter: Xudong Chen
 * ppt:  [20200815_cxd](ppts/20200815_cxd.pdf)
 * method: HBT+Decomposition Strategy
 
+2020/08/30
+reporter: Shuang Zeng
+* paper: Sarthak Jain, Madeleine van Zuylen, Hannaneh Hajishirzi, Iz Beltagy. 2020. [SciREX: A Challenge Dataset for Document-Level Information Extraction](https://www.aclweb.org/anthology/2020.acl-main.670/). In *ACL 2020*.
+* ppt:  [20200830_zs](ppts/20200830_zs.pdf)
+* method: Largest Document-level Relation Extraction Dataset, which is in the domain of Science
+
 
 ### 2. Semantic Role Labeling
 2020/02/23

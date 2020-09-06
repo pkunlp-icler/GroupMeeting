@@ -362,11 +362,16 @@ reporter: Xudong Chen
 * ppt:  [20200705_cxd](ppts/20200705_cxd.pdf)
 * method: Bert + Frame-based Sentence Representation
 
-### 14. Chinese Word Segmentation
+### 14. Chinese Word Segmentation and Semi-Supervised Learning
 reporter: Yuan Zong
 * paper: Ning Ding, Dingkun Long, Guangwei Xu, Muhua Zhu, Pengjun Xie, Xiaobin Wang, Hai-Tao Zheng. 2020. [Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation](https://arxiv.org/pdf/2007.08186.pdf). In *ACL 2020*.
 * ppt:  [20200717_zy](ppts/20200719_zy.pdf)
 * method: Distant Annotation and Adversarial Training
+
+reporter: Yuan Zong
+* paper: Mingda Chen, Qingming Tang, Karen Livescu, Kevin Gimpel. 2018. [Variational Sequential Labelers for Semi-Supervised Learning](https://arxiv.org/abs/1906.09535). In *EMNLP 2018*.
+* ppt:  [20200823_zy](ppts/20200823_zy.pdf)
+* method: VAE and Semi-Supervised Learning
 
 ### 15. Machine Translation
 2020/08/09

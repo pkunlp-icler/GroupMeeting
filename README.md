@@ -380,4 +380,11 @@ reporter: Runxin Xu
 * ppt:  [20200809_xrx](ppts/20200809_xrx.pdf)
 * method: Soft Template in Target Side.
 
+### 16. Question Generation
+2020/09/06
+reporter: Xudong Chen
+* paper: Liangming Pan Yuxi Xie Yansong Feng Tat-Seng Chua Min-Yen Kan. 2020. [Semantic Graphs for Generating Deep Questions](https://arxiv.org/pdf/2004.12704.pdf/). In *ACL 2020*.
+* ppt:  [20200906_cxd](ppts/20200906_cxd.pdf)
+* method: GCN.
+
 ## Datasets

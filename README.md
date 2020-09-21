@@ -291,6 +291,13 @@ reporter: Huan Zhang
 * ppt:  [20200712_zh](ppts/20200712_zh.pdf)
 * method: entity trigger + ner -> cost-effective result
 
+2020/09/20
+reporter: Huan Zhang
+* paper: Minlong Peng, Ruotian Ma, Qi Zhang, Xuanjing Huang, 2020. [Simplify the Usage of Lexicon in Chinese NER](https://arxiv.org/pdf/2004.07493v1.pdf). In *ACL 2020*.
+* ppt:  [20200920_zh](ppts/20200920_zh.pdf)
+* method: lexicon + named entity recognition
+
+
 
 ### 7. Law Judgement Prediction
 2020/05/03

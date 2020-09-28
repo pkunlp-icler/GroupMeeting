@@ -297,6 +297,11 @@ reporter: Huan Zhang
 * ppt:  [20200920_zh](ppts/20200920_zh.pdf)
 * method: lexicon + named entity recognition
 
+2020/09/26
+reporter: Runxin Xu
+* ppt:  [20200926_zh](ppts/20200926_xrx.pdf)
+* method: Chinese named entity recognition
+
 
 
 ### 7. Law Judgement Prediction

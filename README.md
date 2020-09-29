@@ -240,6 +240,12 @@ repoter: Tianyang Cao
 * ppt: [20200823_cty](ppts/20200823_cty.pdf)
 * method: rhyme constraint + topic constraint (with nonnegative matrix factorization)
 
+2020/09/26
+repoter: Tianyang Cao
+* paper: Silin Gao, Yichi Zhang1, Zhijian Ou1,Zhou Yu. 2020. [Paraphrase Augmented Task-Oriented Dialog Generation](https://www.aclweb.org/anthology/2020.acl-main.60.pdf) In *ACL 2020*
+* ppt: [20200926_cty](ppts/20200926_cty.pdf)
+* method: paraphrase generation and two-stage decoder
+
 ### 5. Medical Text Processing
 2020/03/01
 reporter: Huan Zhang

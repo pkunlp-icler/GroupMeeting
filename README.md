@@ -17,6 +17,7 @@
     * [Chinese Word Segmentation](#14-chinese-word-segmentation)
     * [Machine Translation](#15-machine-translation)
     * [Question Generation](#16-question-generation)
+    * [Language Model](#)
 * [Datasets](#datasets)
    
 
@@ -411,5 +412,13 @@ reporter: Xudong Chen
 * paper: Liangming Pan Yuxi Xie Yansong Feng Tat-Seng Chua Min-Yen Kan. 2020. [Semantic Graphs for Generating Deep Questions](https://arxiv.org/pdf/2004.12704.pdf/). In *ACL 2020*.
 * ppt:  [20200906_cxd](ppts/20200906_cxd.pdf)
 * method: GCN.
+
+### 17. Language Model
+2020/10/10
+reporter: Shuang Zeng
+* paper: Ikuya Yamada, Akari Asai, Hiroyuki Shindo, Hideaki Takeda, Yuji Matsumoto. 2020. [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057). In *EMNLP 2020*.
+* ppt:  [20201010_zs](ppts/20201010_zs.pdf)
+* method: Pre-training models treating entity as token, proposing entity-aware self-attention mechanism.
+
 
 ## Datasets

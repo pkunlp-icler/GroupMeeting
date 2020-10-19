@@ -399,6 +399,11 @@ reporter: Yuan Zong
 * ppt:  [20200823_zy](ppts/20200823_zy.pdf)
 * method: VAE and Semi-Supervised Learning
 
+reporter: Yuan Zong
+* paper: Jiaao Chen, Zhenghui Wang, Ran Tian, Zichao Yang, Diyi Yang[Local Additivity Based Data Augmentation for Semi-supervised NER](https://arxiv.org/abs/2010.01677). In *EMNLP 2020*.
+* ppt:  [20201010_zy](ppts/20201010_zy.pdf)
+* method: mixer and Semi-Supervised Learning
+
 ### 15. Machine Translation
 2020/08/09
 reporter: Runxin Xu

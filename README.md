@@ -254,6 +254,13 @@ reporter: Huan Zhang
 * ppt:  [20200301_zh](ppts/20200301_zh.pdf)
 * method: Simultaneously link entities and extract relationships
 
+2020/10/17
+reporter: Huan Zhang
+* paper: Yun He, Ziwei Zhu, Yin Zhang, Qin Chen, James Caverlee. 2020. [Infusing Disease Knowledge into BERT for Health Question Answering, Medical Inference and Disease Name Recognition](https://arxiv.org/pdf/2010.03746.pdf). In *emnlp 2020*.
+* ppt:  [20201017_zh](ppts/20200301_zh.pdf)
+* method: disease knowledge + bert + pretrained
+
+
 ### 6. Named Entity Recognition
 2020/03/29
 reporter: Huan Zhang

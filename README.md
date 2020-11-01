@@ -131,6 +131,14 @@ reporter: Shuang Zeng
 * ppt:  [20200830_zs](ppts/20200830_zs.pdf)
 * method: Largest Document-level Relation Extraction Dataset, which is in the domain of Science
 
+2020/10/31
+reporter: Jiaxing Lin
+* paper1: Difeng Wang, Wei Hu, Ermei Cao, Weijian Sun. 2020. [Global-to-Local Neural Networks for Document-Level Relation Extraction](https://arxiv.org/abs/2009.10359). In *EMNLP 2020*
+* method: BERT+R-GCN for global rep, MultiHeadAttention for local rep and self-attention for topic rep
+* paper2: Wenxuan Zhou, Kevin Huang, Tengyu Ma, Jing Huang. 2020. [Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling](https://arxiv.org/abs/2010.11304). In *ArXiv 2020*
+* method: BERT, localized context pooling by using the last transformer layer in BERT, adaptive thresholding and adaptive thresholding loss
+* ppt: [20201031_ljx](ppts/20201031_ljx.pdf)
+
 
 ### 2. Semantic Role Labeling
 2020/02/23

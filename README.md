@@ -419,6 +419,17 @@ reporter: Yuan Zong
 * ppt:  [20201010_zy](ppts/20201010_zy.pdf)
 * method: mixer and Semi-Supervised Learning
 
+reporter: Yuan Zong
+* paper: Bosheng Ding, Linlin Liu, Lidong Bing, Canasai Kruengkrai, Thien Hai Nguyen, Shafiq Joty, Luo Si, Chunyan Miao[DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks](https://arxiv.org/abs/2011.01549). In *EMNLP 2020*.
+* ppt:  [20201107_zy](ppts/20201107_zy.pdf)
+* method: Data augmentation
+
+reporter: Yuan Zong
+* paper: Dayiheng Liu, Yeyun Gong, Jie Fu, Yu Yan, Jiusheng Chen, Jiancheng Lv, Nan Duan, Ming Zhou[Tell Me How to Ask Again: Question Data Augmentation with Controllable Rewriting in Continuous Space](https://arxiv.org/abs/2010.01475). In *EMNLP 2020*.
+* ppt:  [20201107_zy](ppts/20201107_zy.pdf)
+* method: MRC and data augmentation
+
+
 ### 15. Machine Translation
 2020/08/09
 reporter: Runxin Xu

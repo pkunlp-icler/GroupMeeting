@@ -255,6 +255,19 @@ repoter: Tianyang Cao
 * ppt: [20200926_cty](ppts/20200926_cty.pdf)
 * method: paraphrase generation and two-stage decoder
 
+2020/11/14
+repoter: Tianyang Cao
+* paper: Amirhossein Kazemnejad, Mohammadreza Salehi, Mahdieh Soleymani Baghshah. 2020. [Paraphrase Generation by Learning How to Edit from Samples](https://www.aclweb.org/anthology/2020.acl-main.535.pdf) In *ACL 2020*.
+* ppt: [20201114_cty](ppts/20201114_cty.pdf)
+* method: transformer framework + edit provider + edit performer
+
+2020/11/14
+repoter: Tianyang Cao
+* paper: Haozhe Ji,Pei Ke1,Shaohan Huang, Furu Wei,Xiaoyan Zhu, Minlie Huang. 2020.[Language Generation with Multi-Hop Reasoning on Commonsense
+Knowledge Graph] In *EMNLP 2020*.
+* ppt: [20201114_cty](ppts/20201114_cty.pdf)
+* method: Multi-layer commonsense knowledge reasoning + GPT2
+
 ### 5. Medical Text Processing
 2020/03/01
 reporter: Huan Zhang

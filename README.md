@@ -255,6 +255,18 @@ repoter: Tianyang Cao
 * ppt: [20200926_cty](ppts/20200926_cty.pdf)
 * method: paraphrase generation and two-stage decoder
 
+2020/10/31
+repoter: Xiaodan Xu
+* paper: Shuang Chen, Jinpeng Wang, Xiaocheng Feng, Feng Jiang, Bing Qin, Chin-Yew Lin. 2019. [Enhancing Neural Data-To-Text Generation Models with External Background Knowledge](https://www.aclweb.org/anthology/D19-1299.pdf). In *ACL 2019*.
+* ppt: [20201031_xxd](ppts/20201031_xxd.pdf)
+* method: entity linking + seq2seq framework
+
+2020/10/31
+repoter: Xiaodan Xu
+* paper: Ratish Puduppully, Li Dong, Mirella Lapata. 2019. [Data-to-text Generation with Entity Modeling](https://arxiv.org/pdf/1906.03221) In *ACL 2019*
+* ppt: [20201031_xxd](ppts/20201031_xxd.pdf)
+* method: entity-special representations + hierarchical attention
+
 2020/11/14
 repoter: Tianyang Cao
 * paper: Amirhossein Kazemnejad, Mohammadreza Salehi, Mahdieh Soleymani Baghshah. 2020. [Paraphrase Generation by Learning How to Edit from Samples](https://www.aclweb.org/anthology/2020.acl-main.535.pdf) In *ACL 2020*.

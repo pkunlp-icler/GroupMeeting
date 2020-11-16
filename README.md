@@ -140,6 +140,15 @@ reporter: Jiaxing Lin
 * ppt: [20201031_ljx](ppts/20201031_ljx.pdf)
 
 
+2020/11/14
+reporter: Shuang Zeng
+* paper1: Hao Peng, Tianyu Gao, Xu Han, Yankai Lin, Peng Li, Zhiyuan Liu, Maosong Sun, Jie Zhou. 2020. [Learning from Context or Names? An Empirical Study on Neural Relation Extraction](https://www.aclweb.org/anthology/2020.emnlp-main.298/). In *EMNLP 2020*.
+* method: Contrastive Pre-training for RE + Random Mask Entity
+* paper2: Amir DN Cohen, Shachar Rosenman, Yoav Goldberg. 2020. [Relation Extraction as Two-way Span-Prediction](https://arxiv.org/abs/2010.04829). In *ArXiv 2020*.
+* method: Reduce Relation Classification task to Question Answering Task with bidirectional question for each relation
+* ppt:  [20201114_zs](ppts/20201114_zs.pdf)
+
+
 ### 2. Semantic Role Labeling
 2020/02/23
 reporter: Xudong Chen

@@ -14,7 +14,7 @@
     * [Transformer](#11-transformer)
     * [Numerical Embedding](#12-numerical-embedding)
     * [Question Answering](#13-question-answering)
-    * [Chinese Word Segmentation](#14-chinese-word-segmentation)
+    * [Chinese Word Segmentation](#14-chinese-word-segmentation-and-semi-supervised-learning)
     * [Machine Translation](#15-machine-translation)
     * [Question Generation](#16-question-generation)
     * [Language Model](#17-language-model)

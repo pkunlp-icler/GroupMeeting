@@ -283,10 +283,22 @@ repoter: Tianyang Cao
 
 2020/11/14
 repoter: Tianyang Cao
-* paper: Haozhe Ji,Pei Ke1,Shaohan Huang, Furu Wei,Xiaoyan Zhu, Minlie Huang. 2020.[Language Generation with Multi-Hop Reasoning on Commonsense
+* paper: Haozhe Ji, Pei Ke1, Shaohan Huang, Furu Wei, Xiaoyan Zhu, Minlie Huang. 2020.[Language Generation with Multi-Hop Reasoning on Commonsense
 Knowledge Graph] In *EMNLP 2020*.
 * ppt: [20201114_cty](ppts/20201114_cty.pdf)
 * method: Multi-layer commonsense knowledge reasoning + GPT2
+
+2020/12/12
+repoter: Xiaodan Xu
+* paper: Liying Cheng, Dekun Wu, Lidong Bing, Yan Zhang, Zhanming Jie, Wei Lu, Luo Si. 2020.[ENT-DESC: Entity Description Generation by Exploring Knowledge Graph](https://www.aclweb.org/anthology/2020.emnlp-main.90.pdf) In *EMNLP 2020*.
+* ppt: [20201212_xxd](ppts/20201212_xxd.pdf)
+* method: Multi-graph transformation + aggregation layer
+
+2020/12/12
+repoter: Xiaodan Xu
+* paper: Xinyu Hua, Lu Wang. 2020.[PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation](https://www.aclweb.org/anthology/2020.emnlp-main.57.pdf) In *EMNLP 2020*.
+* ppt: [20201212_xxd](ppts/20201212_xxd.pdf)
+* method: Content planner based on BERT + generation framework based on BART + Iterative Refinement
 
 ### 5. Medical Text Processing
 2020/03/01

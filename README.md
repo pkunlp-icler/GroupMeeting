@@ -147,6 +147,14 @@ reporter: Shuang Zeng
 * method: Reduce Relation Classification task to Question Answering Task with bidirectional question for each relation
 * ppt:  [20201114_zs](ppts/20201114_zs.pdf)
 
+2020/12/12
+reporter: Jiaxing Lin
+* paper1: Jue Wang, Wei Lu. 2020. [Two are Better than One: Joint Entity and Relation Extraction tiwh Table-Sequence Encoders](https://www.aclweb.org/anthology/2020.emnlp-main.133/). In *EMNLP 2020*
+* method: Table-filling, table encoder and sequence encoder interact with each other
+* paper2: Bin Ji, Jie Yu, Shasha Li, Jun Ma, Qingbo Wu, Yusong Tan, Huijun Liu. 2020. [Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations](https://www.aclweb.org/anthology/2020.coling-main.8/). In *COLING 2020*
+* method: NER: SpanSpecific representation and sentence-level contextual representation; RE: local representation and sentence-level contextual representation.
+* ppt: [20201212_ljx](ppts/20201212_ljx.pdf)
+
 
 ### 2. Semantic Role Labeling
 2020/02/23

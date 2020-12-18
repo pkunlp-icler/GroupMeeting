@@ -18,7 +18,7 @@
     * [Machine Translation](#15-machine-translation)
     * [Question Generation](#16-question-generation)
     * [Language Model](#17-language-model)
-   
+    * [Abstractive Summarization](#18-abstractive-summarization)
 
 ## Tasks or Methods
 ### 1. Relation Extraction
@@ -169,6 +169,11 @@ reporter: Xudong Chen
 * ppt:  [20200322_cxd](ppts/20200322_cxd.pdf)
 * method: BiLSTM + Document Attention + CRF
 
+2020/12/05
+reporter: Xudong Chen
+* paper: Emanuele Bastianelli, Andrea Vanzo, Oliver Lemon. 2020. [Encoding Syntactic Constituency Paths for Frame-Semantic Parsing with Graph Convolutional Networks](https://arxiv.org/pdf/2011.13210.pdf). 
+* ppt:  [20201205_cxd](ppts/20201205_cxd.pdf)
+* method: GCN+Dependency parsing
 
 ### 3. Dependency Parsing
 2020/03/15
@@ -503,3 +508,10 @@ reporter: Shuang Zeng
 * paper: Ikuya Yamada, Akari Asai, Hiroyuki Shindo, Hideaki Takeda, Yuji Matsumoto. 2020. [LUKE: Deep Contextualized Entity Representations with Entity-aware Self-attention](https://arxiv.org/abs/2010.01057). In *EMNLP 2020*.
 * ppt:  [20201010_zs](ppts/20201010_zs.pdf)
 * method: Pre-training models treating entity as token, proposing entity-aware self-attention mechanism.
+
+### 18. Abstractive Summarization
+2020/12/05
+reporter: Xudong Chen
+* paper: Hanqi Jin,Tianming Wang,Xiaojun Wan. 2020. [SemSUM: Semantic Dependency Guided Neural Abstractive Summarization](https://ojs.aaai.org//index.php/AAAI/article/view/6312). In *AAAI 2020*.
+* ppt:  [20201205_cxd](ppts/20201205_cxd.pdf)
+* method: Semantic Dependency Parsing

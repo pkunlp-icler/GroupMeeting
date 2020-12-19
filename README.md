@@ -313,6 +313,20 @@ repoter: Xiaodan Xu
 * ppt: [20201212_xxd](ppts/20201212_xxd.pdf)
 * method: Content planner based on BERT + generation framework based on BART + Iterative Refinement
 
+2020/12/19
+repoter: Tianyang Cao
+* paper: Yufan Zhao, Can Xu, Wei Wu. 2020. [Learning a Simple and Effective Model for Multi-turn Response
+Generation with Auxiliary Tasks](https://www.aclweb.org/anthology/2020.emnlp-main.279.pdf) In *EMNLP 2020*.
+* ppt: [20201219_cty](ppts/20200219_cty.pdf)
+* method:  auxiliary tasks, including masked word recovery and order recovery
+
+2020/12/19
+repoter: Tianyang Cao
+* paper: Zhangming Chan, Yuchi Zhang, Xiuying Chen, Shen Gao, Zhiqiang Zhang, Dongyan Zhao and Rui Yan. 2020. [Selection and Generation: Learning towards
+Multi-Product Advertisement Post Generation] (https://www.aclweb.org/anthology/2020.emnlp-main.313.pdf)  In *EMNLP 2020*.
+* ppt: [20201219_cty](ppts/20200219_cty.pdf)
+* method: Selection Network + Multi-generator Network
+
 ### 5. Medical Text Processing
 2020/03/01
 reporter: Huan Zhang

@@ -428,6 +428,12 @@ reporter: Yuan Zong
 * ppt:  [20200531_zy](ppts/20200531_zy.pdf)
 * method: Data mixing + Semi-supervised
 
+2020/12/19
+reporter: Yuan Zong
+* paper: Akari Asai and Hannaneh Hajishirzi. 2020. [Logic-Guided Data Augmentation and Regularization for Consistent Question Answering (https://www.aclweb.org/anthology/2020.acl-main.499/). In *EMNLP 2020*.
+* ppt:  [20201219_zy](ppts/20201219_zy.pdf)
+* method: Data Augmentation +  Regularization
+
 ### 11. Transformer
 2020/06/07
 reporter: Runxin Xu
@@ -474,6 +480,12 @@ reporter: Ce Zheng
 * paper: Jingjing Xu, Yuechen Wang, Duyu Tang, Nan Duan, Pengcheng Yang, Qi Zeng, Ming Zhou and Xu Sun. 2019. [Asking Clarification Questions in Knowledge-Based Question Answering](https://www.aclweb.org/anthology/D19-1172.pdf). In *EMNLP 2019*.
 * ppt: [20200919_zc](ppts/20200919_zc.pptx)
 * method: Knowledge based data collection
+
+2020/12/19
+reporter: Yuan Zong
+* paper: Xuguang Wang, Linjun Shou, Ming Gong, Nan Duan, Daxin Jiang. 2020. [No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension](https://www.aclweb.org/anthology/2020.findings-emnlp.370/). In *EMNLP 2020*.
+* ppt:  [20201219_zy](ppts/20201219_zy.pdf)
+* method: reflection model
 
 ### 14. Chinese Word Segmentation and Semi-Supervised Learning
 reporter: Yuan Zong

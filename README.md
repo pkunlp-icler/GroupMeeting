@@ -340,6 +340,13 @@ reporter: Huan Zhang
 * ppt:  [20201017_zh](ppts/20201017_zh.pdf)
 * method: disease knowledge + bert + pretrained
 
+2020/12/05
+reporter: Huan Zhang
+* ppt:  [20201205_zh](ppts/20201205_zh.pdf)
+* paper: Alan Ramponi, Rob van der Goot, Rosario Lombardo, Barbara Plank, 2020. [Biomedical Event Extraction as Sequence Labeling](https://www.aclweb.org/anthology/2020.emnlp-main.431.pdf). In *Emnlp 2020*.
+* method: biomedical event extraction + sequence labeling
+
+
 
 ### 6. Named Entity Recognition
 2020/03/29
@@ -395,6 +402,12 @@ reporter: Huan Zhang
 reporter: Runxin Xu
 * ppt:  [20200926_zh](ppts/20200926_xrx.pdf)
 * method: Chinese named entity recognition
+
+2020/12/05
+reporter: Huan Zhang
+* ppt:  [20201205_zh](ppts/20201205_zh.pdf)
+* paper: Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song, Bo Dai, 2020. [Named Entity Recognition for Social Media Texts with Semantic Augmentation](https://www.aclweb.org/anthology/2020.emnlp-main.107.pdf). In *Emnlp 2020*.
+* method: social media texts + semantic AU + ner
 
 
 

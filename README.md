@@ -155,6 +155,14 @@ reporter: Jiaxing Lin
 * method: NER: SpanSpecific representation and sentence-level contextual representation; RE: local representation and sentence-level contextual representation.
 * ppt: [20201212_ljx](ppts/20201212_ljx.pdf)
 
+2020/12/26
+reporter: Shuang Zeng
+* paper1: Juan Li, Ruoxu Wang, Ningyu Zhang, Wen Zhang, Fan Yang, Huajun Chen. 2020. [Logic-guided Semantic Representation Learning for Zero-Shot Relation Classification](https://www.aclweb.org/anthology/2020.coling-main.265/). In *COLING 2020*.
+* method: Semantic Mapping in CV + Knowledge Graph Embedding + Rule-based Embedding
+* paper2: Junjie Yu, Tong Zhu, Wenliang Chen, Wei Zhang, Min Zhang. 2020. [Improving Relation Extraction with Relational Paraphrase Sentences](https://www.aclweb.org/anthology/2020.coling-main.148/). In *COLING 2020*.
+* method: Relational Paraphrase Sentence + Multi-instance Learning
+* ppt:  [20201226_zs](ppts/20201226_zs.pdf)
+
 
 ### 2. Semantic Role Labeling
 2020/02/23
@@ -323,7 +331,7 @@ Generation with Auxiliary Tasks](https://www.aclweb.org/anthology/2020.emnlp-mai
 2020/12/19
 repoter: Tianyang Cao
 * paper: Zhangming Chan, Yuchi Zhang, Xiuying Chen, Shen Gao, Zhiqiang Zhang, Dongyan Zhao and Rui Yan. 2020. [Selection and Generation: Learning towards
-Multi-Product Advertisement Post Generation] (https://www.aclweb.org/anthology/2020.emnlp-main.313.pdf)  In *EMNLP 2020*.
+Multi-Product Advertisement Post Generation](https://www.aclweb.org/anthology/2020.emnlp-main.313.pdf)  In *EMNLP 2020*.
 * ppt: [20201219_cty](ppts/20200219_cty.pdf)
 * method: Selection Network + Multi-generator Network
 

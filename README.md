@@ -19,6 +19,7 @@
     * [Question Generation](#16-question-generation)
     * [Language Model](#17-language-model)
     * [Abstractive Summarization](#18-abstractive-summarization)
+    * [Sequence Labeling](#19-sequence-labeling)
 
 ## Tasks or Methods
 ### 1. Relation Extraction
@@ -556,9 +557,23 @@ reporter: Shuang Zeng
 * ppt:  [20201010_zs](ppts/20201010_zs.pdf)
 * method: Pre-training models treating entity as token, proposing entity-aware self-attention mechanism.
 
+2021/01/05
+reporter: Huan Zhang
+* paper: Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu. 2019. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf). In *ACL 2019*.
+* ppt:  [20210102_zh](ppts/20210102_zh.pdf)
+* method: google T5 model
+
+
 ### 18. Abstractive Summarization
 2020/12/05
 reporter: Xudong Chen
 * paper: Hanqi Jin,Tianming Wang,Xiaojun Wan. 2020. [SemSUM: Semantic Dependency Guided Neural Abstractive Summarization](https://ojs.aaai.org//index.php/AAAI/article/view/6312). In *AAAI 2020*.
 * ppt:  [20201205_cxd](ppts/20201205_cxd.pdf)
 * method: Semantic Dependency Parsing
+
+### 19. Sequence Labeling
+2021/01/05
+reporter: Huan Zhang
+* paper: Ben Athiwaratkun, Cicero Nogueira dos Santos, Jason Krone, Bing Xiang. 2020. [Augmented Natural Language for Generative Sequence Labeling](https://www.aclweb.org/anthology/2020.emnlp-main.27.pdf). In *EMNLP 2020*.
+* ppt:  [20210102_zh](ppts/20210102_zh.pdf)
+* method: Pre-training models + fine tuning + generated sequence  labeling

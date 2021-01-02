@@ -335,6 +335,11 @@ repoter: Tianyang Cao
 Multi-Product Advertisement Post Generation](https://www.aclweb.org/anthology/2020.emnlp-main.313.pdf)  In *EMNLP 2020*.
 * ppt: [20201219_cty](ppts/20200219_cty.pdf)
 * method: Selection Network + Multi-generator Network
+2021/01/02
+repoter: Songge Zhao
+* paper: Rajat Agarwal. 2020. [Acrostic Poem Generation](https://www.aclweb.org/anthology/2020.emnlp-main.94/)  In *EMNLP 2020*.
+* ppt: [20210102_zsg](ppts/20210102zsg.pdf)
+* method: Language model+Topic Prediction Model
 
 ### 5. Medical Text Processing
 2020/03/01

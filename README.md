@@ -335,11 +335,30 @@ repoter: Tianyang Cao
 Multi-Product Advertisement Post Generation](https://www.aclweb.org/anthology/2020.emnlp-main.313.pdf)  In *EMNLP 2020*.
 * ppt: [20201219_cty](ppts/20200219_cty.pdf)
 * method: Selection Network + Multi-generator Network
+
 2021/01/02
 repoter: Songge Zhao
 * paper: Rajat Agarwal. 2020. [Acrostic Poem Generation](https://www.aclweb.org/anthology/2020.emnlp-main.94/)  In *EMNLP 2020*.
 * ppt: [20210102_zsg](ppts/20210102zsg.pdf)
 * method: Language model+Topic Prediction Model
+
+2021/01/16
+repoter: Xiaodan Xu
+* paper: Qinzhuo Wu, Qi Zhang, Jinlan Fu, Xuanjing Huang. 2020. [A Knowledge-Aware Sequence-to-Tree Network for Math Word Problem Solving](https://www.aclweb.org/anthology/2020.emnlp-main.579.pdf)  In *EMNLP 2020*.
+* ppt: [20210116_xxd](ppts/20210116_xxd.pdf)
+* method: entity graph + tree-structured decoder + state aggregation mechanism
+
+2021/01/16
+repoter: Xiaodan Xu
+* paper: Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang, Liang Lin 2020. [Semantically-Aligned Universal Tree-Structured Solver for Math Word Problems](https://www.aclweb.org/anthology/2020.emnlp-main.309.pdf)  In *EMNLP 2020*.
+* ppt: [20210116_xxd](ppts/20210116_xxd.pdf)
+* method: universal expression tree + tree-structured decoder
+
+2021/01/16
+repoter: Xiaodan Xu
+* paper: Zhipeng Xie, Shichao Sun 2020. [A Goal-Driven Tree-Structured Neural Model for Math Word Problems](https://www.ijcai.org/Proceedings/2019/0736.pdf)  In *IJCAI 2019*.
+* ppt: [20210116_xxd](ppts/20210116_xxd.pdf)
+* method: top-down goal decomposition + bottom-up subtree embedding
 
 ### 5. Medical Text Processing
 2020/03/01

@@ -442,6 +442,11 @@ reporter: Huan Zhang
 * paper: Yuyang Nie, Yuanhe Tian, Xiang Wan, Yan Song, Bo Dai, 2020. [Named Entity Recognition for Social Media Texts with Semantic Augmentation](https://www.aclweb.org/anthology/2020.emnlp-main.107.pdf). In *Emnlp 2020*.
 * method: social media texts + semantic AU + ner
 
+2021/01/23
+reporter: Yuan Zong
+* paper: Qianhui Wu, Zijia Lin, Borje F. Karlsson, Jian-Guang Lou and Biqing Huang 2020. [Single-/Multi-Source Cross-Lingual NER via Teacher-Student Learning on Unlabeled Data in Target Language](https://www.aclweb.org/anthology/2020.acl-main.581/). In *ACL 2020*.
+* ppt:  [20210123_zy](ppts/20210123_zy.pdf)
+* method: ner + teacher-student
 
 
 ### 7. Law Judgement Prediction
@@ -532,6 +537,12 @@ reporter: Yuan Zong
 * paper: Xuguang Wang, Linjun Shou, Ming Gong, Nan Duan, Daxin Jiang. 2020. [No Answer is Better Than Wrong Answer: A Reflection Model for Document Level Machine Reading Comprehension](https://www.aclweb.org/anthology/2020.findings-emnlp.370/). In *EMNLP 2020*.
 * ppt:  [20201219_zy](ppts/20201219_zy.pdf)
 * method: reflection model
+
+2021/01/23
+reporter: Yuan Zong
+* paper: Yeon Seonwoo, Ji-Hoon Kim, Jung-Woo Ha, Alice Oh. 2020. [Context-Aware Answer Extraction in Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.189/). In *EMNLP 2020*.
+* ppt:  [20210123_zy](ppts/20210123_zy.pdf)
+* method: Block Attention
 
 ### 14. Chinese Word Segmentation and Semi-Supervised Learning
 reporter: Yuan Zong

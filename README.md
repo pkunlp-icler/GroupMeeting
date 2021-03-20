@@ -360,6 +360,12 @@ repoter: Xiaodan Xu
 * ppt: [20210116_xxd](ppts/20210116_xxd.pdf)
 * method: top-down goal decomposition + bottom-up subtree embedding
 
+2021/03/20
+reporter: Xiaodan Xu
+* paper: Arkil Patel, Satwik Bhattamishra, Navin Goyal. 2020. [Are NLP Models really able to Solve Simple Math Word Problems?](https://arxiv.org/abs/2103.07191.pdf). In *NAACL 2021*.
+* ppt:  [20210320_xxd](ppts/20210320_xxd.pdf)
+* method: A New DataSet for Math Word Problem Solving, which reveals the deficiency of current benchmark datasets.
+
 ### 5. Medical Text Processing
 2020/03/01
 reporter: Huan Zhang
@@ -584,6 +590,13 @@ reporter: Xudong Chen
 * paper: Liangming Pan Yuxi Xie Yansong Feng Tat-Seng Chua Min-Yen Kan. 2020. [Semantic Graphs for Generating Deep Questions](https://arxiv.org/pdf/2004.12704.pdf/). In *ACL 2020*.
 * ppt:  [20200906_cxd](ppts/20200906_cxd.pdf)
 * method: GCN.
+
+2021/03/20
+reporter: Xiaodan Xu
+* paper: Xiyao Ma, Qile Zhu, Yanlin Zhou, Xiaolin Li, Dapeng Wu. 2020. [Improving Question Generation with Sentence-level Semantic Matching and
+Answer Position Inferring](https://arxiv.org/pdf/1912.00879.pdf). In *AAAI 2020*.
+* ppt:  [20210320_xxd](ppts/20210320_xxd.pdf)
+* method: Seq2Seq + Sentence-level Semantic Matching + Answer Position Inferring
 
 ### 17. Language Model
 2020/10/10

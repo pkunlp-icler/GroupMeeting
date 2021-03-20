@@ -362,7 +362,7 @@ repoter: Xiaodan Xu
 
 2021/03/20
 reporter: Xiaodan Xu
-* paper: Arkil Patel, Satwik Bhattamishra, Navin Goyal. 2020. [Are NLP Models really able to Solve Simple Math Word Problems?](https://arxiv.org/abs/2103.07191.pdf). In *NAACL 2021*.
+* paper: Arkil Patel, Satwik Bhattamishra, Navin Goyal. 2020. [Are NLP Models really able to Solve Simple Math Word Problems?](https://arxiv.org/pdf/2103.07191.pdf) In *NAACL 2021*.
 * ppt:  [20210320_xxd](ppts/20210320_xxd.pdf)
 * method: A New DataSet for Math Word Problem Solving, which reveals the deficiency of current benchmark datasets.
 
@@ -594,7 +594,7 @@ reporter: Xudong Chen
 2021/03/20
 reporter: Xiaodan Xu
 * paper: Xiyao Ma, Qile Zhu, Yanlin Zhou, Xiaolin Li, Dapeng Wu. 2020. [Improving Question Generation with Sentence-level Semantic Matching and
-Answer Position Inferring](https://arxiv.org/pdf/1912.00879.pdf). In *AAAI 2020*.
+Answer Position Inferring](https://arxiv.org/pdf/1912.00879.pdf) In *AAAI 2020*.
 * ppt:  [20210320_xxd](ppts/20210320_xxd.pdf)
 * method: Seq2Seq + Sentence-level Semantic Matching + Answer Position Inferring
 

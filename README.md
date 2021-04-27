@@ -366,6 +366,13 @@ reporter: Xiaodan Xu
 * ppt:  [20210320_xxd](ppts/20210320_xxd.pdf)
 * method: A New DataSet for Math Word Problem Solving, which reveals the deficiency of current benchmark datasets.
 
+2021/04/24
+reporter: Xiaodan Xu
+* paper: Shangqing Liu, Yu Chen, Xiaofei Xie, Jingkai Siow, Yang Liu. 2021. [Retrieval-Augmented Generation for Code Summarization via Hybrid GNN](https://openreview.net/pdf?id=zv-typ1gPxA) In *ICLR 2021*.
+* ppt:  [20210424_xxd](ppts/20210424_xxd.pdf)
+* method: Retrieval Augmented + Hybrid GNN with static and dynamic graph.
+
+
 ### 5. Medical Text Processing
 2020/03/01
 reporter: Huan Zhang
@@ -600,7 +607,7 @@ Answer Position Inferring](https://arxiv.org/pdf/1912.00879.pdf) In *AAAI 2020*.
 
 2021/04/24
 reporter: Xiaodan Xu
-* paper: Xiaojing Yu, Anxiao (Andrew) Jiang. 2021. [Expanding, Retrieving and Infilling: Diversifying Cross-Domain Question Generation with Flexible Templates](https://arxiv.org/pdf/1912.00879.pdf) In *EACL 2021*.
+* paper: Xiaojing Yu, Anxiao (Andrew) Jiang. 2021. [Expanding, Retrieving and Infilling: Diversifying Cross-Domain Question Generation with Flexible Templates](https://www.aclweb.org/anthology/2021.eacl-main.279.pdf) In *EACL 2021*.
 * ppt:  [20210424_xxd](ppts/20210424_xxd.pdf)
 * method: Soft Template Retrieval + Neural Generation.
 

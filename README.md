@@ -598,6 +598,12 @@ Answer Position Inferring](https://arxiv.org/pdf/1912.00879.pdf) In *AAAI 2020*.
 * ppt:  [20210320_xxd](ppts/20210320_xxd.pdf)
 * method: Seq2Seq + Sentence-level Semantic Matching + Answer Position Inferring
 
+2021/04/24
+reporter: Xiaodan Xu
+* paper: Xiaojing Yu, Anxiao (Andrew) Jiang. 2021. [Expanding, Retrieving and Infilling: Diversifying Cross-Domain Question Generation with Flexible Templates](https://arxiv.org/pdf/1912.00879.pdf) In *EACL 2021*.
+* ppt:  [20210424_xxd](ppts/20210424_xxd.pdf)
+* method: Soft Template Retrieval + Neural Generation.
+
 ### 17. Language Model
 2020/10/10
 reporter: Shuang Zeng

@@ -372,6 +372,19 @@ reporter: Xiaodan Xu
 * ppt:  [20210424_xxd](ppts/20210424_xxd.pdf)
 * method: Retrieval Augmented + Hybrid GNN with static and dynamic graph.
 
+2021/05/15
+reporter: Xiaodan Xu
+* paper: Prakhar Gupta, Jeffrey P. Bigham, Yulia Tsvetkov, Amy Pavel. 2021. [Controlling Dialogue Generation with Semantic Exemplars](https://arxiv.org/abs/2008.09075) In *NAACL 2021*.
+* ppt:  [20210515_xxd](ppts/20210515_xxd.pdf)
+* method: Frame Extraction + Dialogue Generation Framework.
+
+2021/05/15
+reporter: Xiaodan Xu
+* paper: Deng Cai, Yan Wang, Wei Bi, Zhaopeng Tu, Xiaojiang Liu, Shuming Shi. 2019. [Retrieval-guided Dialogue Response Generation via a
+Matching-to-Generation Framework](https://www.aclweb.org/anthology/D19-1195/) In *EMNLP 2019*.
+* ppt:  [20210515_xxd](ppts/20210515_xxd.pdf)
+* method: Skeleton Extraction + Pipeline Generation.
+
 
 ### 5. Medical Text Processing
 2020/03/01

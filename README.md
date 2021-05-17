@@ -570,6 +570,12 @@ reporter: Yuan Zong
 * ppt:  [20210123_zy](ppts/20210123_zy.pdf)
 * method: Block Attention
 
+2021/04/23
+reporter: Xudong Chen
+* paper: M. Yasunaga, H. Ren, A. Bosselut, P. Liang, J. Leskovec. 2021. [QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering](https://arxiv.org/abs/2104.06378/). In *NAACL 2021*.
+* ppt:  [20210423_cxd](ppts/20210423_cxd.pdf)
+* method: GCN
+
 ### 14. Chinese Word Segmentation and Semi-Supervised Learning
 reporter: Yuan Zong
 * paper: Ning Ding, Dingkun Long, Guangwei Xu, Muhua Zhu, Pengjun Xie, Xiaobin Wang, Hai-Tao Zheng. 2020. [Coupling Distant Annotation and Adversarial Training for Cross-Domain Chinese Word Segmentation](https://arxiv.org/pdf/2007.08186.pdf). In *ACL 2020*.
